@@ -61,10 +61,36 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
 
 * Spatio-Temporal Forecasting using Temporal Graph Neural Networks [Link](https://medium.com/data-reply-it-datatech/spatio-temporal-forecasting-using-temporal-graph-neural-networks-f27a8b326e5c)
 
+* Graph Convolutional Networks: Introduction to GNNs [Link](https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95)
+
+* Graph Neural Network and Some of GNN Applications: Everything You Need to Know [Link](https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications)
+
+* Graph Neural Networks: Extending Deep Learning to Graph-Structured Data [Link](https://medium.com/@zhonghong9998/graph-neural-networks-extending-deep-learning-to-graph-structured-data-5a8e4947e21c)
+
+* Math Behind Graph Neural Networks [Link](https://rish-16.github.io/posts/gnn-math/)
+
+* Temporal Graph Networks [Link](https://rish-16.github.io/posts/gnn-math/)
+
+* Graph convolutional neural networks [Link](https://mbernste.github.io/posts/gcn/)
+
+* Deep Learning on Graphs (a Tutorial) [Link](https://cloud4scieng.org/2020/08/28/deep-learning-on-graphs-a-tutorial/)
+
+* How to do Deep Learning on Graphs with Graph Convolutional Networks [Link](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)
+
+* Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric [Link](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)
+
+
 # Repositories
 
 * GNN in Action [Link](https://github.com/keitabroadwater/gnns_in_action)
 
 * Hands-On-Graph-Neural-Networks-Using-Python [Link](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python)
 
+* Awesome-DynamicGraphLearning [Link](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
 
+
+
+
+
+
+ 
