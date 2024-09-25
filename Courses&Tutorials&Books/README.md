@@ -69,7 +69,7 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
 
 * Math Behind Graph Neural Networks [Link](https://rish-16.github.io/posts/gnn-math/)
 
-* Temporal Graph Networks [Link](https://rish-16.github.io/posts/gnn-math/)
+* Temporal Graph Networks [Link](https://towardsdatascience.com/temporal-graph-learning-in-2024-feaa9371b8e2)
 
 * Graph convolutional neural networks [Link](https://mbernste.github.io/posts/gcn/)
 
