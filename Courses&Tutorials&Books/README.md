@@ -1,14 +1,14 @@
-This is the folder for relevant resources, e.g., course, tutorial, books, thesis, and blog.
+This is the folder for relevant resources, e.g., course, tutorial, books, thesis, and blogs.
 
 <ul>
-    <li><a href="#courses">⭐ Courses</a></li>
-    <li><a href="#tutorials">🍎 Tutorials</a></li>
-    <li><a href="#books">📘 Books</a></li>
-    <li><a href="#data">📂 Open-source air pollution and meteorological data</a></li>
-    <li><a href="#thesis">📜 Thesis</a></li>
-    <li><a href="#tools">📦 Tools</a></li>
-    <li><a href="#blog">📜 Blog</a></li>
-    <li><a href="#repositories">📚 Repositories</a></li>
+    <li><a href="#courses">Courses</a></li>
+    <li><a href="#tutorials">Tutorials</a></li>
+    <li><a href="#books">Books</a></li>
+    <li><a href="#data">Open-source air pollution and meteorological data</a></li>
+    <li><a href="#theses">Theses</a></li>
+    <li><a href="#tools">Tools</a></li>
+    <li><a href="#blogs">Blogs</a></li>
+    <li><a href="#repositories">Repositories</a></li>
 </ul>
 
 <h2 id="courses">⭐ Courses</h2>
@@ -62,7 +62,7 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 
 [7] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
 
-<h2 id="thesis">📜 Theses</h2>
+<h2 id="theses">📜 Theses</h2>
 
 * Zhang Y. Graph deep learning models for network-based spatio-temporal data forecasting: from dense to sparse[D]. UCL (University College London), 2020. [Link](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.816000)
 
@@ -83,7 +83,7 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 * [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/mdeff/cnn_graph)
 
 
-<h2 id="blog">📜 Blogs</h2>
+<h2 id="blogs">📜 Blogs</h2>
 
 * A Gentle Introduction to Graph Neural Networks [Link](https://distill.pub/2021/gnn-intro/)
 
