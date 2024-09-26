@@ -1,15 +1,17 @@
 This is the folder for relevant resources, e.g., course, tutorial, books, thesis, and blog.
 
-<h2 id="courses">⭐ Courses</h2>
-<h2 id="tutorials">🍎 Tutorials</h2>
-<h2 id="books">📘 Books</h2>
-<h2 id="data">📂 Open-source air pollution and meteorological data</h2>
-<h2 id="thesis">📜 Thesis</h2>
-<h2 id="tools">📦 Tools</h2>
-<h2 id="blog">📜 Blog</h2>
-<h2 id="repositories">📚 Repositories</h2>
+<ul>
+    <li><a href="#courses">⭐ Courses</a></li>
+    <li><a href="#tutorials">🍎 Tutorials</a></li>
+    <li><a href="#books">📘 Books</a></li>
+    <li><a href="#data">📂 Open-source air pollution and meteorological data</a></li>
+    <li><a href="#thesis">📜 Thesis</a></li>
+    <li><a href="#tools">📦 Tools</a></li>
+    <li><a href="#blog">📜 Blog</a></li>
+    <li><a href="#repositories">📚 Repositories</a></li>
+</ul>
 
-## ⭐ Courses
+<h2 id="courses">⭐ Courses</h2>
 
 There are several introductory content to learn about GNNs. The following are some useful ones:
 
@@ -19,7 +21,7 @@ There are several introductory content to learn about GNNs. The following are so
 
 * Deep Learning (with PyTorch) [Link](https://atcold.github.io/pytorch-Deep-Learning/) [Github_repository](https://github.com/Atcold/pytorch-Deep-Learning)
 
-## 🍎 Tutorials
+<h2 id="tutorials">🍎 Tutorials</h2>
 
 * Graph Machine Learning Group by Prof. Cesare Alippi, Università della Svizzera italiana [Link](https://gmlg.ch/tutorials/graph-based-processing/ecml-2023) 
 
@@ -31,7 +33,7 @@ There are several introductory content to learn about GNNs. The following are so
 
 * Graph Mining & Learning (@NeurIPS 2020) [Link](https://gm-neurips-2020.github.io/)
 
-## 📘 Books
+<h2 id="books">📘 Books</h2>
 
 * Hamilton, William L. (2020). *Graph Representation Learning*. New York: Morgan & Claypool Publishers. 
 
@@ -43,7 +45,7 @@ There are several introductory content to learn about GNNs. The following are so
 
 * Broadwater, Keita, and Namid Stillman. (2023) . *Graph Neural Networks in Action*. MEAP V06, Manning Publications, n.d.
 
-## 📂 Open-source air pollution and meteorological data
+<h2 id="data">📂 Open-source air pollution and meteorological data</h2>
 
 [1] Pollution data in Korea: [link](https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123)
 
@@ -60,13 +62,13 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 
 [7] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
 
-## 📜 Thesis
+<h2 id="thesis">📜 Theses</h2>
 
 * Zhang Y. Graph deep learning models for network-based spatio-temporal data forecasting: from dense to sparse[D]. UCL (University College London), 2020. [Link](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.816000)
 
 * Tang X. Modeling Spatiotemporality for Multivariate Time Series in Urban Applications[J]. 2020. [Link](https://etda.libraries.psu.edu/catalog/17900xut10)
 
-## 📦 Tools
+<h2 id="tools">📦 Tools</h2>
 
 * [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
@@ -80,7 +82,8 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 * [Graph Convolutional Networks](https://github.com/tkipf/gcn)
 * [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/mdeff/cnn_graph)
 
-# Blog
+
+<h2 id="blog">📜 Blogs</h2>
 
 * A Gentle Introduction to Graph Neural Networks [Link](https://distill.pub/2021/gnn-intro/)
 
@@ -108,9 +111,7 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 
 * Understanding Convolutions on Graphs [Link](https://distill.pub/2021/understanding-gnns/)
 
-
-
-# Repositories
+<h2 id="repositories">📚 Repositories</h2>
 
 * GNN in Action [Link](https://github.com/keitabroadwater/gnns_in_action)
 
