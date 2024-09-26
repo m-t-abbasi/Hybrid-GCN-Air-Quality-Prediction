@@ -40,11 +40,11 @@ correlation for air quality prediction [[paper]](https://www.sciencedirect.com/s
 13. STM2CN: A Multi-graph Attention-based
 Framework for Sensor Data Prediction in Smart
 Cities [[paper]](https://ieeexplore.ieee.org/document/9892249)
-14. MGC‑LSTM: a deep learning model based on graph convolution
-of multiple graphs for PM2.5 prediction [[paper]](https://link.springer.com/article/10.1007/s13762-022-04553-6)
-15. Spatio-Temporal Modeling For Air Quality
+14. Spatio-Temporal Modeling For Air Quality
 Prediction Based On Spectral Graph Convolutional
 Network And Attention Mechanism [[paper]](https://ieeexplore.ieee.org/document/9891881)
+15. MGC‑LSTM: a deep learning model based on graph convolution
+of multiple graphs for PM2.5 prediction [[paper]](https://link.springer.com/article/10.1007/s13762-022-04553-6)
 16. Graph Neural Network for Air Quality Prediction:
 A Case Study in Madrid [[paper]](https://ieeexplore.ieee.org/document/10005808)
 17. A hybrid deep learning model for regional O3 and NO2 concentrations
@@ -65,25 +65,40 @@ system incorporating spatiotemporal long-short term graph
 convolutional network [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0045653523013383)
 24. Multi-view multi-task spatiotemporal graph convolutional network for air
 quality prediction [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0048969723033223)
+25. Dynamic graph neural network with adaptive edge attributes for
+air quality prediction: A case study in China [[paper]](https://www.sciencedirect.com/science/article/pii/S240584402304954X)
+26. ASTGC: Attention-based Spatio-temporal Fusion Graph Convolution
+Model for Fine-grained Air Quality Analysis [[paper]](https://link.springer.com/article/10.1007/s11869-023-01369-2)
+27. Spatiotemporal adaptive attention
+graph convolution network
+for city‑level air quality prediction [[paper]](https://www.nature.com/articles/s41598-023-39286-0)
+28. Adaptive scalable spatio-temporal graph convolutional network for PM2.5
+prediction [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0952197623012642)
+29. Adaptive scalable spatio-temporal graph convolutional network for PM2.5
+prediction [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0952197623012642)
+30. Spatio-temporal fusion of meteorological factors for multi-site PM2.5
+prediction: A deep learning and time-variant graph approach [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S001393512302090X)
+31. A forecasting framework on fusion of spatiotemporal features for
+multi-station PM2.5 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423024533)
+32. Fine-grained PM2.5 prediction in Lanzhou based on the spatiotemporal graph
+convolutional network [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1309104223003471)
+33. A lightweight spatiotemporal graph dilated convolutional network for
+urban sensor state prediction [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S221067072300714X)
+34. Multi-Site and Multi-Pollutant Air Quality Data Modeling [[paper]](https://www.mdpi.com/2071-1050/16/1/165)
 
 
 
 
 
-## [Air quality and meteorological monitoring data](#content)
 
-[1] Pollution data in Korea: [link](https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123)
 
-[2] Beijing air quality
-dataset is available in Chinses Air Quality Historical Data: [link](https://quotsoft.net/air/)
 
-[2] Meteorological data in Korea: [link](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)
 
-[3] Particulate matter in China: [link](http://www.stateair.net/web/post/1/1.html)
 
-[4] Weather and events data: [link](https://www.wunderground.com/)
 
-[5] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
+
+
+
 
 
 
