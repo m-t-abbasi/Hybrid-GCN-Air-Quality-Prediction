@@ -7,17 +7,24 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 ## 📚 Collection of Papers
+<ul>
+    <li><a href="#2019">2019</a></li>
+    <li><a href="#2020">2020</a></li>
+    <li><a href="#2021">2021</a></li>
+    <li><a href="#2022">2022</a></li>
+    <li><a href="#2023">2023</a></li>
+    <li><a href="#2024">2024</a></li>
+</ul>
 
-### GNNs 
-### 2019
+<h2 id="2019">2019</h2>
 1. A hybrid model for spatiotemporal forecasting of PM2.5 based on graph
 convolutional neural network and long short-term memory [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0048969719303821)
-### 2020
+<h2 id="2020">2020</h2>
 2. Multi-scale spatiotemporal graph convolution network for air
 quality prediction [[paper]](https://link.springer.com/article/10.1007/s10489-020-02054-y)
 3. Self-adaptive spatial-temporal network based on
 heterogeneous data for air quality prediction [[paper]](https://www.tandfonline.com/doi/full/10.1080/09540091.2020.1841095)
-### 2021
+<h2 id="2021">2021</h2>
 4. Forecasting PM2.5 using hybrid graph convolution-based model
 considering dynamic wind-field to offer the benefit of spatial
 interpretability [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0269749121000518)
@@ -30,7 +37,7 @@ an ensemble graph reinforcement learning convolutional network [[paper]](https:/
 Neural Network for Air Quality Prediction [[paper]](https://ieeexplore.ieee.org/document/9534167)
 9. A hybrid integrated deep learning model for
 predicting various air pollutants [[paper]](https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1988429)
-### 2022
+<h2 id="2022">2022</h2>
 10. A dual-path dynamic directed graph convolutional network for air
 quality prediction [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0048969722013900)
 11. Heterogeneous data fusion considering spatial correlations using graph
@@ -45,6 +52,7 @@ Prediction Based On Spectral Graph Convolutional
 Network And Attention Mechanism [[paper]](https://ieeexplore.ieee.org/document/9891881)
 15. MGC‑LSTM: a deep learning model based on graph convolution
 of multiple graphs for PM2.5 prediction [[paper]](https://link.springer.com/article/10.1007/s13762-022-04553-6)
+<h2 id="2023">2023</h2>
 16. Graph Neural Network for Air Quality Prediction:
 A Case Study in Madrid [[paper]](https://ieeexplore.ieee.org/document/10005808)
 17. A hybrid deep learning model for regional O3 and NO2 concentrations
