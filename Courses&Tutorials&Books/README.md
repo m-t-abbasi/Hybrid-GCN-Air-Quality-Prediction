@@ -1,6 +1,8 @@
 This is the folder for relevant resources, e.g., course, tutorial, books, thesis, and blog.
 
-# Course
+## ⭐ Courses
+
+There are several introductory content to learn about GNNs. The following are some useful ones:
 
 * Machine Learning with Graphs (CS224W) by  Prof.Jure Leskovec, Stanford University [Link](https://web.stanford.edu/class/cs224w/) 
 
@@ -10,8 +12,7 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
 
 # Competition
 
-
-# Tutorial
+## 🍎 Tutorials
 
 * Graph Machine Learning Group by Prof. Cesare Alippi, Università della Svizzera italiana [Link](https://gmlg.ch/tutorials/graph-based-processing/ecml-2023) 
 
@@ -23,7 +24,7 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
 
 * Graph Mining & Learning (@NeurIPS 2020) [Link](https://gm-neurips-2020.github.io/)
 
-# Books
+## 📘 Books
 
 * Hamilton, William L. (2020). *Graph Representation Learning*. New York: Morgan & Claypool Publishers. 
 
@@ -35,22 +36,39 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
 
 * Broadwater, Keita, and Namid Stillman. (2023) . *Graph Neural Networks in Action*. MEAP V06, Manning Publications, n.d.
 
+## 📂 Open-source air pollution and meteorological data
 
-# Thesis
+[1] Pollution data in Korea: [link](https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123)
+
+[2] Pollution data in China: [link](https://english.mee.gov.cn/)
+
+[3] Beijing air quality
+dataset is available in Chinses Air Quality Historical Data: [link](https://quotsoft.net/air/)
+
+[4] Meteorological data in Korea: [link](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)
+
+[5] Particulate matter in China: [link](http://www.stateair.net/web/post/1/1.html)
+
+[6] Weather and events data: [link](https://www.wunderground.com/)
+
+[7] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
+
+## 📜 Thesis
+
 * Zhang Y. Graph deep learning models for network-based spatio-temporal data forecasting: from dense to sparse[D]. UCL (University College London), 2020. [Link](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.816000)
 
 * Tang X. Modeling Spatiotemporality for Multivariate Time Series in Urban Applications[J]. 2020. [Link](https://etda.libraries.psu.edu/catalog/17900xut10)
 
-# Tools
+## 📦 Tools
 
-## General Graph Learning
 * [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
 * [Deep Graph Library](https://www.dgl.ai/)
 * [Stellar Graph](https://stellargraph.readthedocs.io/en/stable/)
 * [GNNLens](https://github.com/dmlc/GNNLens2)
 * [GraphVite](https://graphvite.io/)
-* [Graph Representation Learning](https://github.com/dsgiitr/graph_nets)
+* [jraph](https://github.com/google-deepmind/jraph)
+* [Spektral](https://graphneural.network/)
 * [Keras Graph Convolutions](https://github.com/SoftwareImpacts/SIMPAC-2021-57)
 * [Graph Convolutional Networks](https://github.com/tkipf/gcn)
 * [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/mdeff/cnn_graph)
@@ -69,6 +87,8 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
 
 * Math Behind Graph Neural Networks [Link](https://rish-16.github.io/posts/gnn-math/)
 
+* Graph Convolutional Networks [Link](https://tkipf.github.io/graph-convolutional-networks/)
+
 * Temporal Graph Networks [Link](https://towardsdatascience.com/temporal-graph-learning-in-2024-feaa9371b8e2)
 
 * Graph convolutional neural networks [Link](https://mbernste.github.io/posts/gcn/)
@@ -79,6 +99,9 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
 
 * Hands-on Graph Neural Networks with PyTorch & PyTorch Geometric [Link](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)
 
+* Understanding Convolutions on Graphs [Link](https://distill.pub/2021/understanding-gnns/)
+
+
 
 # Repositories
 
@@ -87,6 +110,24 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
 * Hands-On-Graph-Neural-Networks-Using-Python [Link](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python)
 
 * Awesome-DynamicGraphLearning [Link](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
+
+* Graph Neural Network Course [Link](https://github.com/mlabonne/graph-neural-network-course)
+
+* Graph Representation Learning  [Link](https://github.com/dsgiitr/graph_nets)
+
+*  Course on Graph Neural Networks [Link](https://github.com/giuseppefutia/gnns-course?tab=readme-ov-file)
+
+* A Network Tour of Data Science, edition 2016 [Link](https://github.com/mdeff/ntds_2016?tab=readme-ov-file) 
+
+## 📚 GNN Papers and Implementations
+
+If you want to keep up-to-date with popular recent methods and paper implementations for GNNs, the Papers with Code community maintains this useful collection:
+
+* [Graph Models by Papers with Code](https://paperswithcode.com/methods/category/graph-models)
+
+
+
+
 
 
 
