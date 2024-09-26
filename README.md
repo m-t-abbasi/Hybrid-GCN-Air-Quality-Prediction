@@ -21,24 +21,22 @@ Contributions are always welcome! Make an individual pull request for each sugge
    Read Paper
    </button></a>
 
-<h2 id="2020">2020</h2>
-2. Multi-scale spatiotemporal graph convolution network for air
-quality prediction [[paper]](https://link.springer.com/article/10.1007/s10489-020-02054-y)
-3. Self-adaptive spatial-temporal network based on
-heterogeneous data for air quality prediction [[paper]](https://www.tandfonline.com/doi/full/10.1080/09540091.2020.1841095)
-<h2 id="2021">2021</h2>
-4. Forecasting PM2.5 using hybrid graph convolution-based model
-considering dynamic wind-field to offer the benefit of spatial
-interpretability [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0269749121000518)
-5. Near-surface PM2.5 prediction combining the complex network
-characterization and graph convolution neural network [[paper]](https://link.springer.com/article/10.1007/s00521-021-06300-3)
-6. A graph-based LSTM model for PM2.5 forecasting [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1309104221002166)
-7. A new multi-data-driven spatiotemporal PM2.5 forecasting model based on
-an ensemble graph reinforcement learning convolutional network [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1309104221002622)
-8. Spatial-Temporal Dynamic Graph Convolution
-Neural Network for Air Quality Prediction [[paper]](https://ieeexplore.ieee.org/document/9534167)
-9. A hybrid integrated deep learning model for
-predicting various air pollutants [[paper]](https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1988429)
+<h2 id="2020">📅 2020</h2>
+2. Multi-scale spatiotemporal graph convolution network for air quality prediction <a href="https://link.springer.com/article/10.1007/s10489-020-02054-y" target="_blank"> <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> Read Paper </button></a>
+Self-adaptive spatial-temporal network based on heterogeneous data for air quality prediction
+<a href="https://www.tandfonline.com/doi/full/10.1080/09540091.2020.1841095" target="_blank"> <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> Read Paper </button></a>
+<h2 id="2021">📅 2021</h2>
+4. Forecasting PM2.5 using hybrid graph convolution-based model considering dynamic wind-field to offer the benefit of spatial interpretability <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749121000518" target="_blank"> <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> Read Paper </button></a>
+5. Near-surface PM2.5 prediction combining the complex network characterization and graph convolution neural network
+<a href="https://link.springer.com/article/10.1007/s00521-021-06300-3" target="_blank"> <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> Read Paper </button></a>
+6. A graph-based LSTM model for PM2.5 forecasting
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104221002166" target="_blank"> <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> Read Paper </button></a>
+7. A new multi-data-driven spatiotemporal PM2.5 forecasting model based on an ensemble graph reinforcement learning convolutional network
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104221002622" target="_blank"> <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> Read Paper </button></a>
+8. Spatial-Temporal Dynamic Graph Convolution Neural Network for Air Quality Prediction
+<a href="https://ieeexplore.ieee.org/document/9534167" target="_blank"> <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> Read Paper </button></a>
+9. A hybrid integrated deep learning model for predicting various air pollutants
+<a href="https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1988429" target="_blank"> <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> Read Paper </button></a>
 <h2 id="2022">2022</h2>
 10. A dual-path dynamic directed graph convolutional network for air
 quality prediction [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0048969722013900)
