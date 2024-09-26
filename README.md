@@ -15,7 +15,8 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ## 📚 Collection of Papers
 <h2 id="2019">📅 2019</h2>
-1. A hybrid model for spatiotemporal forecasting of PM2.5 based on graph convolutional neural network and long short-term memory [📄 **Read Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0048969719303821)
+1. A hybrid model for spatiotemporal forecasting of PM2.5 based on graph convolutional neural network and long short-term memory  
+[![Read Paper](https://img.shields.io/badge/-Read%20Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0048969719303821)
 
 <h2 id="2020">2020</h2>
 2. Multi-scale spatiotemporal graph convolution network for air
