@@ -1,5 +1,14 @@
 This is the folder for relevant resources, e.g., course, tutorial, books, thesis, and blog.
 
+<h2 id="courses">⭐ Courses</h2>
+<h2 id="tutorials">🍎 Tutorials</h2>
+<h2 id="books">📘 Books</h2>
+<h2 id="data">📂 Open-source air pollution and meteorological data</h2>
+<h2 id="thesis">📜 Thesis</h2>
+<h2 id="tools">📦 Tools</h2>
+<h2 id="blog">📜 Blog</h2>
+<h2 id="repositories">📚 Repositories</h2>
+
 ## ⭐ Courses
 
 There are several introductory content to learn about GNNs. The following are some useful ones:
@@ -9,8 +18,6 @@ There are several introductory content to learn about GNNs. The following are so
 * Graph Neural Networks (ESE680) by Alejandro Ribeiro, University of Pennsylvania [Link](https://gnn.seas.upenn.edu/) 
 
 * Deep Learning (with PyTorch) [Link](https://atcold.github.io/pytorch-Deep-Learning/) [Github_repository](https://github.com/Atcold/pytorch-Deep-Learning)
-
-# Competition
 
 ## 🍎 Tutorials
 
