@@ -1,9 +1,10 @@
-# Contribution
+## Contribution
 
-Contributions are always welcome! Make an individual pull request for each suggestion.
+Your contributions are invaluable! We encourage you to share your insights by submitting individual pull requests for each suggestion.
 
-# Content
+## Content Overview
 
+## Explore the Timeline:
 <ul>
     <li><a href="#2019">2019</a></li>
     <li><a href="#2020">2020</a></li>
@@ -248,15 +249,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
     </a>
 </div>
 <div>
-    29. Adaptive scalable spatio-temporal graph convolutional network for PM2.5 prediction 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197623012642" target="_blank"> 
-        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
-            Read Paper 
-        </button>
-    </a>
-</div>
-<div>
-    30. Spatio-temporal fusion of meteorological factors for multi-site PM2.5 prediction: A deep learning and time-variant graph approach 
+    29. Spatio-temporal fusion of meteorological factors for multi-site PM2.5 prediction: A deep learning and time-variant graph approach 
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S001393512302090X" target="_blank"> 
         <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
             Read Paper 
@@ -264,7 +257,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
     </a>
 </div>
 <div>
-    31. A forecasting framework on fusion of spatiotemporal features for multi-station PM2.5 
+    30. A forecasting framework on fusion of spatiotemporal features for multi-station PM2.5 
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423024533" target="_blank"> 
         <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
             Read Paper 
@@ -272,7 +265,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
     </a>
 </div>
 <div>
-    32. Fine-grained PM2.5 prediction in Lanzhou based on the spatiotemporal graph convolutional network 
+    31. Fine-grained PM2.5 prediction in Lanzhou based on the spatiotemporal graph convolutional network 
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104223003471" target="_blank"> 
         <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
             Read Paper 
@@ -280,7 +273,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
     </a>
 </div>
 <div>
-    33. A lightweight spatiotemporal graph dilated convolutional network for urban sensor state prediction 
+    32. A lightweight spatiotemporal graph dilated convolutional network for urban sensor state prediction 
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S221067072300714X" target="_blank"> 
         <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
             Read Paper 
@@ -288,13 +281,141 @@ Contributions are always welcome! Make an individual pull request for each sugge
     </a>
 </div>
 <div>
-    34. Multi-Site and Multi-Pollutant Air Quality Data Modeling 
+    33. Multi-Site and Multi-Pollutant Air Quality Data Modeling 
     <a href="https://www.mdpi.com/2071-1050/16/1/165" target="_blank"> 
         <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
             Read Paper 
         </button>
     </a>
 </div>
+<h2 id="2024">📅 2024</h2>
+<div>
+    34. A Multi-Modal Deep-Learning Air Quality Prediction Method Based on Multi-Station Time-Series Data and Remote-Sensing Images: Case Study of Beijing and Tianjin 
+    <a href="https://www.mdpi.com/1099-4300/26/1/91"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    35. Urban AQI Prediction Using an Inverse Variance Weighted GCN and BiLSTM Combined Model 
+    <a href="https://ieeexplore.ieee.org/document/10409714"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    36. Predicting short-term PM2.5 concentrations at fine temporal resolutions using a multi-branch temporal graph convolutional neural network
+    <a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2310737"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    37. An adaptive adjacency matrix‑based graph convolutional recurrent network for air quality prediction
+    <a href="https://www.nature.com/articles/s41598-024-55060-2"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    38. AIoT-driven multi-source sensor emission monitoring and forecasting using multi-source sensor integration with reduced noise series decomposition
+    <a href="https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-024-00598-9"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    38. AIoT-driven multi-source sensor emission monitoring and forecasting using multi-source sensor integration with reduced noise series decomposition
+    <a href="https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-024-00598-9"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    39. Enhancing Air Quality Forecasting: A Novel Spatio-Temporal Model Integrating Graph Convolution and Multi-Head Attention Mechanism
+    <a href="https://www.mdpi.com/2073-4433/15/4/418"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    40. Air Quality Index Prediction Model Integrating Spatiotemporal Information
+    <a href="https://ieeexplore.ieee.org/document/10503264"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    41. Learning spatiotemporal dependencies using adaptive hierarchical graph convolutional neural network for air quality prediction
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959652624019899"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    42. Prediction of PM2.5 Concentration Based on Deep Learning, Multi-Objective Optimization, and Ensemble Forecast
+    <a href="https://www.mdpi.com/2071-1050/16/11/4643"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    43. Visibility forecast in Jiangsu province based on the GCN‑GRU model
+    <a href="https://www.nature.com/articles/s41598-024-61572-8"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    44. Fine particulate matter concentration prediction based on hybrid convolutional network with aggregated local and global spatiotemporal information: A case study in Beijing and Chongqing
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1352231024003224"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    45.Enhanced Air Quality Prediction through Spatio-temporal Feature Sxtraction and Fusion: A Self-tuning Hybrid Approach with GCN and GRU
+    <a href="https://link.springer.com/article/10.1007/s11270-024-07346-4"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    46.Explainable AI-driven high-fidelity IAQ prediction (HiFi-IAQ) model for subway stations: Spatiotemporal outdoor air quality interpolation using
+geographic data
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360132324007480"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+<div>
+    47.Short-term air pollution prediction using graph convolutional neural networks
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162524004827"> 
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
+            Read Paper 
+        </button>
+    </a>
+</div>
+
+
+
+
+
+
 
 
 
