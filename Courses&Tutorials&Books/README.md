@@ -4,6 +4,7 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
     <li><a href="#courses">Courses</a></li>
     <li><a href="#tutorials">Tutorials</a></li>
     <li><a href="#books">Books</a></li>
+    <li><a href="#youtube-videos">YouTube Videos on Graph Neural Networks</a></li>
     <li><a href="#data">Open-source air pollution and meteorological data</a></li>
     <li><a href="#theses">Theses</a></li>
     <li><a href="#tools">Tools</a></li>
@@ -19,7 +20,9 @@ There are several introductory content to learn about GNNs. The following are so
 
 * Graph Neural Networks (ESE680) by Alejandro Ribeiro, University of Pennsylvania [Link](https://gnn.seas.upenn.edu/) 
 
-* Deep Learning (with PyTorch) [Link](https://atcold.github.io/pytorch-Deep-Learning/) [Github_repository](https://github.com/Atcold/pytorch-Deep-Learning)
+* Deep Learning (with PyTorch) [Link](https://atcold.github.io/NYU-DLSP20/)
+
+* Graph Neural Network [Link](https://www.udemy.com/course/graph-neural-network/?amp%3Butm_medium=web&amp%3Butm_campaign=careers24octlaunch&amp%3Bpmtag=CAREERS24LEARN15&amp%3Baff_code=Ewh3Y1lWQH8FQR93MkBPbG1RGXFfW1h8B14ZeU5TQ3YBRxFzWj5XMRM%3D&utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_GammaCatchall_NonP_la.EN_cc.ROW-English&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_169801645584_._ad_700876640602_._kw__._de_c_._dm__._pl__._ti_dsa-1456167871416_._li_1009851_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQjwr9m3BhDHARIsANut04bORdvaW-h2T5pGrnGwFPjTaMA1yFAUAWYBzlXyTyhC86pZPinqPewaAqthEALw_wcB)
 
 <h2 id="tutorials">🍎 Tutorials</h2>
 
@@ -44,6 +47,20 @@ There are several introductory content to learn about GNNs. The following are so
 * Labonne, Maxime. (2023). *Hands-On Graph Neural Networks Using Python: Practical Techniques and Architectures*. Birmingham: Packt Publishing.
 
 * Broadwater, Keita, and Namid Stillman. (2023) . *Graph Neural Networks in Action*. MEAP V06, Manning Publications, n.d.
+
+h2 id="youtube-videos">📺 YouTube Videos on Graph Neural Networks</h2>
+
+There are several informative YouTube videos and playlists that can enhance your understanding of GNNs. Here are some recommended ones:
+
+* Stanford CS224W: Machine Learning with Graph [Link](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+
+* Graph Neural Networks [Link](https://www.youtube.com/watch?v=UYZE2LFbB_E&list=PLB1nTQo4_y6sfLtCrGAKG_l7xOHjtYqBk&index=1)
+
+* Graph Neural Networks2 [Link](https://www.youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z)
+
+* Graph Neural Networks - Theory, Applications and Research [Link](https://www.youtube.com/playlist?app=desktop&list=PLPTV0NXA_ZSg4Pimkso0nHxwYMB6IGX7l)
+
+* UVA Deep Learning Lectures 2020 [Link](https://www.youtube.com/watch?v=PQTSg7OQ8fI&list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk)
 
 <h2 id="data">📂 Open-source air pollution and meteorological data</h2>
 
@@ -120,6 +137,8 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 * Awesome-DynamicGraphLearning [Link](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
 
 * Graph Neural Network Course [Link](https://github.com/mlabonne/graph-neural-network-course)
+
+* NYU Deep Learning Spring 2020 [Link](https://github.com/Atcold/NYU-DLSP20?tab=readme-ov-file)
 
 * Graph Representation Learning  [Link](https://github.com/dsgiitr/graph_nets)
 
