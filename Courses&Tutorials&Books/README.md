@@ -48,13 +48,15 @@ There are several introductory content to learn about GNNs. The following are so
 
 * Broadwater, Keita, and Namid Stillman. (2023) . *Graph Neural Networks in Action*. MEAP V06, Manning Publications, n.d.
 
-h2 id="youtube-videos">📺 YouTube Videos on Graph Neural Networks</h2>
+<h2 id="youtube-videos">📺 YouTube Videos on Graph Neural Networks</h2>
 
 There are several informative YouTube videos and playlists that can enhance your understanding of GNNs. Here are some recommended ones:
 
 * Stanford CS224W: Machine Learning with Graph [Link](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
 * Graph Neural Networks [Link](https://www.youtube.com/watch?v=UYZE2LFbB_E&list=PLB1nTQo4_y6sfLtCrGAKG_l7xOHjtYqBk&index=1)
+
+* AMMI Geometric Deep Learning Course [Link](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 
 * Graph Neural Networks2 [Link](https://www.youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z)
 
