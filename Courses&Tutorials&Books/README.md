@@ -81,6 +81,8 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 
 [7] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
 
+[8] Air quality from UCI: [link](http://archive.ics.uci.edu/dataset/360/air+quality)
+
 <h2 id="theses">📜 Theses</h2>
 
 * Zhang Y. Graph deep learning models for network-based spatio-temporal data forecasting: from dense to sparse[D]. UCL (University College London), 2020. [Link](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.816000)
@@ -138,6 +140,8 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 
 * Awesome-DynamicGraphLearning [Link](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)
 
+* A collection of research on spatio-temporal data mining [Link](https://github.com/xiepeng21/research_spatio-temporal-data-mining)
+
 * Graph Neural Network Course [Link](https://github.com/mlabonne/graph-neural-network-course)
 
 * NYU Deep Learning Spring 2020 [Link](https://github.com/Atcold/NYU-DLSP20?tab=readme-ov-file)
@@ -147,6 +151,8 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 *  Course on Graph Neural Networks [Link](https://github.com/giuseppefutia/gnns-course?tab=readme-ov-file)
 
 * A Network Tour of Data Science, edition 2016 [Link](https://github.com/mdeff/ntds_2016?tab=readme-ov-file) 
+
+* Deep Learning Time Series Forecasting [Link](https://github.com/Alro10/deep-learning-time-series)
 
 ## 📚 GNN Papers and Implementations
 
