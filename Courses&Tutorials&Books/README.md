@@ -150,7 +150,9 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 
 *  Course on Graph Neural Networks [Link](https://github.com/giuseppefutia/gnns-course?tab=readme-ov-file)
 
-* A Network Tour of Data Science, edition 2016 [Link](https://github.com/mdeff/ntds_2016?tab=readme-ov-file) 
+* A Network Tour of Data Science, edition 2016 [Link](https://github.com/mdeff/ntds_2016?tab=readme-ov-file)
+
+* Time-Series Works and Conferences [Link](https://github.com/lixus7/Time-Series-Works-Conferences) 
 
 * Deep Learning Time Series Forecasting [Link](https://github.com/Alro10/deep-learning-time-series)
 
