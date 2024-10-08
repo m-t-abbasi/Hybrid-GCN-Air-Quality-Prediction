@@ -4,6 +4,7 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
     <li><a href="#courses">Courses</a></li>
     <li><a href="#tutorials">Tutorials</a></li>
     <li><a href="#books">Books</a></li>
+       <li><a href="#surveys">Surveys and Literature Reviews</a></li>
     <li><a href="#youtube-videos">YouTube Videos on Graph Neural Networks</a></li>
     <li><a href="#data">Open-source air pollution and meteorological data</a></li>
     <li><a href="#theses">Theses</a></li>
@@ -38,15 +39,45 @@ There are several introductory content to learn about GNNs. The following are so
 
 <h2 id="books">📘 Books</h2>
 
-* Hamilton, William L. (2020). *Graph Representation Learning*. New York: Morgan & Claypool Publishers. 
+* Hamilton, William L. (2020). *Graph Representation Learning*. New York: Morgan & Claypool Publishers. [Link](https://www.cs.mcgill.ca/~wlh/grl_book/) 
 
 * Wolfe, Claudio Stamile, Aldo Marzullo, and Enrico Deusebio. (2021). *Graph Machine Learning: Take Graph Data to the Next Level by Applying Machine Learning Techniques and Algorithms*. Birmingham: Packt Publishing.
 
 * Ma, Yao, and Tang, Jiliang. (2021). *Deep Learning on Graphs*. Cambridge: Cambridge University Press.
 
+* Wu, Lingfei, Peng Cui, Jian Pei, and Liang Zhao. (2022). Graph Neural Networks: Foundations, Frontiers, and Applications. Singapore: Springer Singapore. [Link](https://link.springer.com/book/10.1007/978-981-16-6054-2)
+
 * Labonne, Maxime. (2023). *Hands-On Graph Neural Networks Using Python: Practical Techniques and Architectures*. Birmingham: Packt Publishing.
 
 * Broadwater, Keita, and Namid Stillman. (2023) . *Graph Neural Networks in Action*. MEAP V06, Manning Publications, n.d.
+
+<h2 id="Surveys">🔍 Surveys and Literature Reviews</h2>
+
+* Geometric Deep Learning: Going beyond Euclidean data [Link](https://ieeexplore.ieee.org/document/7974879) 
+
+* Representation Learning on Graphs: Methods and Applications [Link](https://arxiv.org/abs/1709.05584)  
+
+* Graph Neural Networks: A Review of Methods and Applications [Link](https://arxiv.org/abs/1812.08434) 
+
+* Relational inductive biases, deep learning, and graph networks [Link](https://arxiv.org/abs/1806.01261)  
+
+* Learning Representations of Graph Data -- A Survey [Link](https://arxiv.org/abs/1906.02989)
+
+* Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview [Link](https://arxiv.org/abs/1908.00187)
+
+* Graph convolutional networks: a comprehensive review [Link](https://link.springer.com/article/10.1186/s40649-019-0069-y)  
+
+* Adversarial Attack and Defense on Graph Data: A Survey [Link](https://arxiv.org/abs/1812.10528) 
+
+* Deep Learning on Graphs: A Survey [Link](https://ieeexplore.ieee.org/abstract/document/9039675) 
+
+* Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey [Link](https://arxiv.org/abs/2005.07496)  
+
+* Machine Learning on Graphs: A Model and Comprehensive Taxonomy [Link](https://arxiv.org/abs/2005.03675)  
+
+* Explainability in Graph Neural Networks: A Taxonomic Survey [Link](https://arxiv.org/abs/2012.15445)
+
+* A Comprehensive Survey on Graph Neural Networks [Link](https://ieeexplore.ieee.org/document/9046288)            
 
 <h2 id="youtube-videos">📺 YouTube Videos on Graph Neural Networks</h2>
 
@@ -155,6 +186,8 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 * Time-Series Works and Conferences [Link](https://github.com/lixus7/Time-Series-Works-Conferences) 
 
 * Deep Learning Time Series Forecasting [Link](https://github.com/Alro10/deep-learning-time-series)
+
+* Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch [Link](https://github.com/yysijie/st-gcn)
 
 ## 📚 GNN Papers and Implementations
 
