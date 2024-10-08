@@ -77,7 +77,23 @@ There are several introductory content to learn about GNNs. The following are so
 
 * Explainability in Graph Neural Networks: A Taxonomic Survey [Link](https://arxiv.org/abs/2012.15445)
 
-* A Comprehensive Survey on Graph Neural Networks [Link](https://ieeexplore.ieee.org/document/9046288)            
+* A Comprehensive Survey on Graph Neural Networks [Link](https://ieeexplore.ieee.org/document/9046288)
+
+* Survey on graph embeddings and their applications to machine learning problems on graphs [Link](https://peerj.com/articles/cs-357/)  
+
+* Hyperbolic Deep Neural Networks: A Survey [Link](https://arxiv.org/abs/2101.04562)   
+
+* Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities [Link](https://arxiv.org/abs/2302.01018)
+
+* Challenges and Opportunities in Deep Reinforcement Learning With Graph Neural Networks: A Comprehensive Review of Algorithms and Applications [Link](https://ieeexplore.ieee.org/abstract/document/10161704) 
+
+* A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection [Link](https://arxiv.org/abs/2307.03759)
+
+* A survey of graph neural networks in various learning paradigms: methods, applications, and challenges [Link](https://link.springer.com/article/10.1007/s10462-022-10321-2)  
+
+* A Comprehensive Survey on Deep Graph Representation Learning [Link](https://arxiv.org/abs/2304.05055)
+
+* State of the Art and Potentialities of Graph-level Learning [Link](https://arxiv.org/abs/2301.05860)               
 
 <h2 id="youtube-videos">📺 YouTube Videos on Graph Neural Networks</h2>
 
