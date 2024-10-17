@@ -17,68 +17,58 @@ Your contributions are invaluable! We encourage you to share your insights by su
 </ul>
 
 ## 📚 Collection of Papers
+
 <h2 id="2019">📅 2019</h2>
-<div>
-    1. A hybrid model for spatiotemporal forecasting of PM2.5 based on graph convolutional neural network and long short-term memory 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969719303821"> 
-        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
-            Read Paper 
-        </button>
+<div style="margin-bottom: 20px;">
+    <p>1. A hybrid model for spatiotemporal forecasting of PM2.5 based on graph convolutional neural network and long short-term memory</p> 
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969719303821">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; font-size:16px; cursor:pointer; border-radius:8px;">Read Paper</button>
     </a>
 </div>
 
 <h2 id="2020">📅 2020</h2>
-<div>
-    2. Multi-scale spatiotemporal graph convolution network for air quality prediction
-    <a href="https://link.springer.com/article/10.1007/s10489-020-02054-y"> 
-        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
-            Read Paper 
-        </button>
+<div style="margin-bottom: 20px;">
+    <p>2. Multi-scale spatiotemporal graph convolution network for air quality prediction</p>
+    <a href="https://link.springer.com/article/10.1007/s10489-020-02054-y">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; font-size:16px; cursor:pointer; border-radius:8px;">Read Paper</button>
     </a>
 </div>
-<div>
-    3. Self-adaptive spatial-temporal network based onheterogeneous data for air quality prediction 
-    <a href="https://www.tandfonline.com/doi/full/10.1080/09540091.2020.1841095" target="_blank"> 
-        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
-            Read Paper 
-        </button>
+
+<div style="margin-bottom: 20px;">
+    <p>3. Self-adaptive spatial-temporal network based on heterogeneous data for air quality prediction</p>
+    <a href="https://www.tandfonline.com/doi/full/10.1080/09540091.2020.1841095" target="_blank">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; font-size:16px; cursor:pointer; border-radius:8px;">Read Paper</button>
     </a>
 </div>
 
 <h2 id="2021">📅 2021</h2>
-<div>
-    4. Forecasting PM2.5 using hybrid graph convolution-based model considering dynamic wind-field to offer the benefit of spatial interpretability 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749121000518"> 
-        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
-            Read Paper 
-        </button>
+<div style="margin-bottom: 20px;">
+    <p>4. Forecasting PM2.5 using hybrid graph convolution-based model considering dynamic wind-field to offer the benefit of spatial interpretability</p>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749121000518">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; font-size:16px; cursor:pointer; border-radius:8px;">Read Paper</button>
     </a>
 </div>
-<div>
-    5. Near-surface PM2.5 prediction combining the complex network characterization and graph convolution neural network 
-    <a href="https://link.springer.com/article/10.1007/s00521-021-06300-3" target="_blank"> 
-        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
-            Read Paper 
-        </button>
+
+<div style="margin-bottom: 20px;">
+    <p>5. Near-surface PM2.5 prediction combining the complex network characterization and graph convolution neural network</p>
+    <a href="https://link.springer.com/article/10.1007/s00521-021-06300-3" target="_blank">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; font-size:16px; cursor:pointer; border-radius:8px;">Read Paper</button>
     </a>
 </div>
-<div>
-    6. A graph-based LSTM model for PM2.5 forecasting 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104221002166" target="_blank"> 
-        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
-            Read Paper 
-        </button>
+
+<div style="margin-bottom: 20px;">
+    <p>6. A graph-based LSTM model for PM2.5 forecasting</p>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104221002166" target="_blank">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; font-size:16px; cursor:pointer; border-radius:8px;">Read Paper</button>
     </a>
 </div>
-<div>
-    7. A new multi-data-driven spatiotemporal PM2.5 forecasting model based on an ensemble graph reinforcement learning convolutional network 
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104221002622" target="_blank"> 
-        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
-            Read Paper 
-        </button>
+
+<div style="margin-bottom: 20px;">
+    <p>7. A new multi-data-driven spatiotemporal PM2.5 forecasting model based on an ensemble graph reinforcement learning convolutional network</p>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1309104221002622">
+        <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; font-size:16px; cursor:pointer; border-radius:8px;">Read Paper</button>
     </a>
-</div>
-<div>
+</div><div>
     8. Spatial-Temporal Dynamic Graph Convolution Neural Network for Air Quality Prediction 
     <a href="https://ieeexplore.ieee.org/document/9534167" target="_blank"> 
         <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;"> 
