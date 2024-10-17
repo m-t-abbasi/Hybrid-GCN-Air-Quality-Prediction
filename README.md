@@ -39,7 +39,7 @@ Your contributions are invaluable! We encourage you to share your insights by su
 [5] Near-surface PM2.5 prediction combining the complex network characterization and graph convolution neural network  
 [📄 Link](https://link.springer.com/article/10.1007/s00521-021-06300-3)
 
-[6] A graph-based LSTM model for PM2.5 forecasting  
+[6] A graph-based LSTM model for PM2.5 forecasting
 [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S1309104221002166)
 
 [7] A new multi-data-driven spatiotemporal PM2.5 forecasting model based on an ensemble graph reinforcement learning convolutional network  
@@ -48,7 +48,7 @@ Your contributions are invaluable! We encourage you to share your insights by su
 [8] Spatial-Temporal Dynamic Graph Convolution Neural Network for Air Quality Prediction  
 [📄 Link](https://ieeexplore.ieee.org/document/9534167)
 
-[9] A hybrid integrated deep learning model for predicting various air pollutants  
+[9] A hybrid integrated deep learning model for predicting various air pollutants
 [📄 Link](https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1988429)
 
 [10] Research on Prediction and Source Analysis of Ozone Pollution  
