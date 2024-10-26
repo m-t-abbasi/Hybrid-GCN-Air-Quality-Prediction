@@ -141,6 +141,7 @@ multi-station PM2.5                                                             
 [42] Predicting short-term PM2.5 concentrations at fine temporal resolutions using a multi-branch temporal graph convolutional neural network                            [📄 Link](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2310737)
 
 [43] An adaptive adjacency matrix‑based graph convolutional recurrent network for air quality prediction                                                                       [📄 Link](https://www.nature.com/articles/s41598-024-55060-2)
+[📃 Code](https://github.com/DHA-AI4VN2022/MAML?tab=readme-ov-file)
 
 [44] AIoT-driven multi-source sensor emission monitoring and forecasting using multi-source sensor integration with reduced noise series decomposition                         [📄 Link](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-024-00598-9)
 
