@@ -153,15 +153,11 @@ multi-station PM2.5                                                             
 
 [48] Prediction of PM2.5 Concentration Based on Deep Learning, Multi-Objective Optimization, and Ensemble Forecast                                                       [📄 Link](https://www.mdpi.com/2071-1050/16/11/4643)
 
-[49] Visibility forecast in Jiangsu province based on the GCN‑GRU model                 [📄 Link](https://www.nature.com/articles/s41598-024-61572-8)
+[49] Fine particulate matter concentration prediction based on hybrid convolutional network with aggregated local and global spatiotemporal information: A case study in Beijing and Chongqing                                                                        [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S1352231024003224)
 
-[50] Fine particulate matter concentration prediction based on hybrid convolutional network with aggregated local and global spatiotemporal information: A case study in Beijing and Chongqing                                                                        [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S1352231024003224)
+[50] Enhanced Air Quality Prediction through Spatio-temporal Feature Extraction and Fusion: A Self-tuning Hybrid Approach with GCN and GRU                                  [📄 Link](https://link.springer.com/article/10.1007/s11270-024-07346-4)
 
-[51] Enhanced Air Quality Prediction through Spatio-temporal Feature Extraction and Fusion: A Self-tuning Hybrid Approach with GCN and GRU                                  [📄 Link](https://link.springer.com/article/10.1007/s11270-024-07346-4)
-
-[52] Explainable AI-driven high-fidelity IAQ prediction (HiFi-IAQ) model for subway stations: Spatiotemporal outdoor air quality interpolation using geographic data            [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0360132324007480)
-
-[53] Short-term air pollution prediction using graph convolutional neural networks  [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0040162524004827)  
+[51] Short-term air pollution prediction using graph convolutional neural networks  [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0040162524004827)  
 
 
 
