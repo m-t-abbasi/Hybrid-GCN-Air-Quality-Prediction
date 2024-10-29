@@ -9,7 +9,8 @@ In this systematic review, we present a comprehensive list of publicly available
 
 <h2 id="Concentration factors of pollutants">🌫️ Concentration factors of pollutants</h2>
 
-:cn: China
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China Flag" width="5"/>
+ China
 
 Since January 1, 2015, China’s central environmental ministry, now known as the Ministry of Ecology and Environment (MEE), has been publishing continuous, real-time hourly measurements of PM2.5 in 363 Chinese cities. These data are publicly accessible for 48 hours, after which they are removed from the MEE website. 
 
