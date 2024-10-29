@@ -3,13 +3,15 @@ In this systematic review, we present a comprehensive list of publicly available
 
 <ul>
     <li><a href="#Concentration factors of pollutants">Concentration factors of pollutants</a></li>
-    <li><a href="#Meteorological Factors">Meteorological Factors</a></li>
+    <li><a href="#Meteorological factors">Meteorological factors</a></li>
+    <li><a href="#POI factors">POI factors</a></li>
+       <li><a href="#Traffic factors">Traffic factors</a></li>
     
 </ul>
 
 <h2 id="Concentration factors of pollutants">🌫️ Concentration factors of pollutants</h2>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China Flag" width="20"/> China
+📍 China
 
 Since January 1, 2015, China’s central environmental ministry, now known as the Ministry of Ecology and Environment (MEE), has been publishing continuous, real-time hourly measurements of PM2.5 in 363 Chinese cities. These data are publicly accessible for 48 hours, after which they are removed from the MEE website. 
 
@@ -19,13 +21,21 @@ Since January 1, 2015, China’s central environmental ministry, now known as th
 
 ---
 
-📍 Beijing
+📍 Beijing, China
 
 The air pollution data collection structure in China is multi-level and involves collaboration between national, provincial, and local agencies. The Ministry of Ecology and Environment (MEE) formulates national policies and standards, coordinates the national monitoring system, and publishes national reports. Provincial environmental departments implement MEE's responsibilities at the provincial level and report their findings to the MEE. Urban departments are responsible for policy implementation and managing local monitoring stations. Air quality monitoring stations collect data on pollutants and send it to higher levels. This data, after processing by the MEE, is made publicly available through websites and applications. 
 Some of these websites for Beijing are as follows:
 - [Beijing Municipal Ecology and Environment Bureau (BMEEB) Data](http://www.bjmemc.com.cn/)
 - [Harvard Dataverse Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/USXCAK)
 - [UCI Machine Learning Repository Data](https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data)
+- [KDD CUP of Fresh Air](https://www.kdd.org/kdd2018/kdd-cup)
+
+---
+
+📍 Shanghai, China
+
+Based on the previous explanations, similar data for Shanghai is as follows::
+- [Shanghai Municipal Bureau of Ecology and Environment Data](https://sthj.sh.gov.cn/english/index.html)
 
 ---
 
@@ -48,7 +58,29 @@ In South Korea, several reputable websites collect and publish data related to a
 - [Ministry of Environment Website](https://me.go.kr/home/web/main.do): Information on policies and regulations for environmental issues in South Korea.
 - [Air Quality Monitoring Platform](https://www.airkorea.or.kr/eng/): Real-time air quality data for various pollutants.
 
-<h2 id="Meteorological Factors">☁️ Meteorological Factors</h2>
+---
+
+📍 Madrid, Spain
+
+The Open Data portal of the Madrid City Council is a public digital resource that provides open data related to the city of Madrid. This portal offers a wide range of information, including data on transportation, air quality, population, public services, urban infrastructure, and more, accessible to the public for free. The main goal of this portal is to enhance transparency, encourage data reuse, and support innovation by providing accurate and up-to-date information to developers, researchers, and citizens.
+
+The data is available in various formats, such as CSV, JSON, and XML, and is compatible with analytical and data visualization tools, making it easy for users to utilize it in research projects, applications, or personal analyses.
+
+- [Madrid City Council Open Data Portal](https://datos.madrid.es/portal/site/egob): Access comprehensive data on Madrid's policies, urban services, environmental conditions, and infrastructure.
+
+---
+
+📍 London, Great Britain
+
+For many large cities, air pollution has become a severe problem. In 2018, the KDD Cup, titled "KDD Cup of Fresh Air," solicited machine learning solutions to accurately forecast air quality indices (AQIs) for the next 48 hours. Accurate predictions of AQIs can bring enormous value to governments, enterprises, and the general public, helping them make informed decisions.
+
+The KDD Cup of Fresh Air was launched on March 15 and ended on May 31. Participants were asked to forecast the AQIs for Beijing, China, and London, UK. Over 4,000 teams from 49 countries participated in the competition and made over 20,000 submissions.
+
+- [KDD Cup of Fresh Air](https://www.kdd.org/kdd2018/kdd-cup): Access comprehensive data related to the 2018 KDD Cup, where participants forecasted air quality indices (AQIs) for major cities like Beijing and London.
+- [Another Link for KDD Cup of Fresh Air](https://www.biendata.xyz/competition/kdd_2018/): Find additional resources and information about the competition.
+
+
+<h2 id="Meteorological factors">☁️ Meteorological factors</h2>
 
 🌍 Global
 
@@ -74,5 +106,22 @@ For more information, you can explore the following resources:
 The China Meteorological Data Service Centre is an upgraded system for sharing meteorological data, serving as a key component of the national science and technology platform. It acts as an authoritative platform for the China Meteorological Administration, providing access to meteorological data for both domestic and global users. This center supports the opening of China's meteorological service market and promotes the efficient sharing and application of meteorological information resources within a new service system.
 
 - [China Meteorological Data Service Centre](https://data.cma.cn/en)
+
+<h2 id="POI factors">🗺️ POI factors</h2>
+
+📍 China
+
+Gaode Map, also known as Amap, is a popular web mapping and navigation service in China, owned by Alibaba Group. It provides users with real-time navigation, traffic updates, location-based services, and geospatial data. Businesses and developers often use its API to access point-of-interest (POI) data, which includes locations like restaurants, hospitals, and tourist spots. Gaode Map is widely used for urban planning, logistics, and daily navigation needs. 
+
+- [Gaode Map API](https://lbs.amap.com/api/webservice/download)
+
+<h2 id="Traffic factors">🚗 Traffic factors</h2>
+
+🌍 Global
+
+OpenStreetMap (OSM) is a collaborative mapping project that provides free and editable geographic data to users around the world. Founded in 2004, it is maintained by a global community of volunteers who contribute map data through GPS devices, aerial imagery, and other sources. OSM offers detailed maps and spatial data for various applications, including navigation, urban planning, and disaster response. Its open data model allows developers to access and use the information for diverse purposes without any licensing fees.
+
+- [OpenStreetMap](http://www.openstreetmap.org/)
+
 
 
