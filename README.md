@@ -157,7 +157,9 @@ multi-station PM2.5                                                             
 
 [50] Enhanced Air Quality Prediction through Spatio-temporal Feature Extraction and Fusion: A Self-tuning Hybrid Approach with GCN and GRU                                  [📄 Link](https://link.springer.com/article/10.1007/s11270-024-07346-4)
 
-[51] Short-term air pollution prediction using graph convolutional neural networks  [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0040162524004827)  
+[51] Short-term air pollution prediction using graph convolutional neural networks  [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0040162524004827) 
+
+[52] Domain knowledge-enhanced multi-spatial multi-temporal PM2.5 forecasting with integrated monitoring and reanalysis data  [📄 Link](https://www.sciencedirect.com/science/article/pii/S016041202400583X)  
 
 
 
