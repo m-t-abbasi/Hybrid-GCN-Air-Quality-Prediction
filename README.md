@@ -1,4 +1,4 @@
-<img src="./img/Classification of existing methods.jpg" alt="Classification of existing methods" style="width:100%; max-width:600px; margin:20px 0;">
+<img src="./img/Classification of existing methods.png" alt="Classification of existing methods" style="width:100%; max-width:600px; margin:20px 0;">
 
 ## Contribution
 
