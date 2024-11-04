@@ -113,9 +113,24 @@ The China Meteorological Data Service Centre is an upgraded system for sharing m
 
 📍 China
 
+Points of Interest (POIs) refer to specific locations where individuals congregate to engage in daily activities. In China, several prominent mapping service providers cater to this need, with Baidu Maps, Amap (Gaode Maps), Sogou Maps, Google Maps, Bing Maps, and Tencent Maps being the most popular.
+
+Among these, Baidu Maps stands out as a leading service, offering detailed maps, real-time traffic updates, and diverse navigation options for driving, walking, and using public transportation. This platform leverages Baidu's extensive data ecosystem to provide personalized recommendations for POIs, such as restaurants and tourist attractions. Additionally, it incorporates augmented reality (AR) navigation features, enhancing the user experience by providing immersive guidance.
+
+Baidu Maps also facilitates convenience by allowing users to make reservations and order services directly through the application. The platform encourages user-generated content, enabling users to share their reviews and ratings, thereby creating a rich repository of information for both locals and visitors. Its intuitive interface, combined with regular updates and enhancements, contributes significantly to its widespread popularity among millions of users across China.
+
+- [Baidu Maps](https://lbsyun.baidu.com/faq/api?title=webapi/guide/webservice-placeapi)
+- [Methods for Collectinng POI data](https://github.com/kkyyhh96/CollectGISData)
+
+
+---
+
+📍 China
+
 Gaode Map, also known as Amap, is a popular web mapping and navigation service in China, owned by Alibaba Group. It provides users with real-time navigation, traffic updates, location-based services, and geospatial data. Businesses and developers often use its API to access point-of-interest (POI) data, which includes locations like restaurants, hospitals, and tourist spots. Gaode Map is widely used for urban planning, logistics, and daily navigation needs. 
 
 - [Gaode Map API](https://lbs.amap.com/api/webservice/download)
+
 
 <h2 id="Traffic factors">🚗 Traffic factors</h2>
 
