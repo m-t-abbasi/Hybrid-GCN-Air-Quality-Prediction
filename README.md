@@ -118,6 +118,7 @@ Your contributions are invaluable! We encourage you to share your insights by su
 [32] ASTGC: Attention-based Spatio-temporal Fusion Graph Convolution Model for Fine-grained Air Quality Analysis                                                             [📄 Link](https://link.springer.com/article/10.1007/s11869-023-01369-2)
 
 [33] Spatiotemporal adaptive attention graph convolution network for city‑level air quality prediction                                                                       [📄 Link](https://www.nature.com/articles/s41598-023-39286-0)
+[📃 Code](https://github.com/349117955/STAAGCN)
 
 [34] Adaptive scalable spatio-temporal graph convolutional network for PM2.5 prediction                                                                        [📄 Link](https://www.nature.com/articles/s41598-023-39286-0)
 
