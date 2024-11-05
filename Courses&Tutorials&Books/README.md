@@ -4,11 +4,9 @@ This is the folder for relevant resources, e.g., course, tutorial, books, thesis
     <li><a href="#courses">Courses</a></li>
     <li><a href="#tutorials">Tutorials</a></li>
     <li><a href="#books">Books</a></li>
-       <li><a href="#surveys">Surveys and Literature Reviews</a></li>
+    <li><a href="#surveys">Surveys and Literature Reviews</a></li>
     <li><a href="#youtube-videos">YouTube Videos on Graph Neural Networks</a></li>
-    <li><a href="#data">Open-source air pollution and meteorological data</a></li>
     <li><a href="#theses">Theses</a></li>
-    <li><a href="#tools">Tools</a></li>
     <li><a href="#blogs">Blogs</a></li>
     <li><a href="#repositories">Repositories</a></li>
 </ul>
@@ -111,45 +109,11 @@ There are several informative YouTube videos and playlists that can enhance your
 
 * UVA Deep Learning Lectures 2020 [Link](https://www.youtube.com/watch?v=PQTSg7OQ8fI&list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk)
 
-<h2 id="data">📂 Open-source air pollution and meteorological data</h2>
-
-[1] Pollution data in Korea: [link](https://www.airkorea.or.kr/web/last_amb_hour_data?pMENU_NO=123)
-
-[2] Pollution data in China: [link](https://english.mee.gov.cn/)
-
-[3] Beijing air quality
-dataset is available in Chinses Air Quality Historical Data: [link](https://quotsoft.net/air/)
-
-[4] Meteorological data in Korea: [link](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)
-
-[5] Particulate matter in China: [link](http://www.stateair.net/web/post/1/1.html)
-
-[6] Weather and events data: [link](https://www.wunderground.com/)
-
-[7] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
-
-[8] Air quality from UCI: [link](http://archive.ics.uci.edu/dataset/360/air+quality)
-
 <h2 id="theses">📜 Theses</h2>
 
 * Zhang Y. Graph deep learning models for network-based spatio-temporal data forecasting: from dense to sparse[D]. UCL (University College London), 2020. [Link](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.816000)
 
 * Tang X. Modeling Spatiotemporality for Multivariate Time Series in Urban Applications[J]. 2020. [Link](https://etda.libraries.psu.edu/catalog/17900xut10)
-
-<h2 id="tools">📦 Tools</h2>
-
-* [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
-* [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
-* [Deep Graph Library](https://www.dgl.ai/)
-* [Stellar Graph](https://stellargraph.readthedocs.io/en/stable/)
-* [GNNLens](https://github.com/dmlc/GNNLens2)
-* [GraphVite](https://graphvite.io/)
-* [jraph](https://github.com/google-deepmind/jraph)
-* [Spektral](https://graphneural.network/)
-* [Keras Graph Convolutions](https://github.com/SoftwareImpacts/SIMPAC-2021-57)
-* [Graph Convolutional Networks](https://github.com/tkipf/gcn)
-* [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/mdeff/cnn_graph)
-
 
 <h2 id="blogs">📜 Blogs</h2>
 
@@ -210,6 +174,18 @@ dataset is available in Chinses Air Quality Historical Data: [link](https://quot
 If you want to keep up-to-date with popular recent methods and paper implementations for GNNs, the Papers with Code community maintains this useful collection:
 
 * [Graph Models by Papers with Code](https://paperswithcode.com/methods/category/graph-models)
+
+https://github.com/HeXiax/AGCC
+
+https://github.com/ckghostwj
+
+https://github.com/j1o2h3n
+
+https://github.com/j1o2h3n/DDSTGCN
+
+https://github.com/j1o2h3n/GCN_PyTorch
+
+https://github.com/j1o2h3n/STSGCN
 
 
 
