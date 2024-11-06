@@ -1,3 +1,7 @@
+🔧 Tools and Popular Packages for Air Quality Data Analysis 🌍📊💡
+This section provides a curated list of open-source tools and libraries designed for air quality data analysis, spatiotemporal modeling, and graph-based deep learning. These resources offer a range of functionalities, from clustering air quality monitoring stations to applying advanced graph neural network (GNN) models for prediction and classification. Explore these tools and libraries to enhance your air quality research and experiment with innovative methodologies.🚀
+
+
 <ul>
     <li><a href="#Tools for air quality data analysis">Tools for air quality data analysis</a></li>
     <li><a href="#Popular packages">Popular packages</a></li>
@@ -65,6 +69,14 @@ The library offers numerous techniques for deep learning on graphs and other irr
 
 - [PyG](https://pyg.org/)
 - [PyG](https://github.com/pyg-team/pytorch_geometric)
+
+---
+Keras Deep Learning on Graphs (Keras-DGL)
+
+Keras-DGL is a deep learning library built on top of Keras and the Deep Graph Library (DGL). It allows users to easily build and train graph neural networks (GNNs) using Keras-like APIs. The library leverages DGL's efficient graph processing capabilities and integrates them seamlessly with Keras' high-level model-building structure. Keras-DGL supports a wide range of GNN architectures, such as Graph Convolutional Networks (GCNs) and Graph Attention Networks (GATs). It simplifies the implementation of graph-based deep learning models, enabling rapid prototyping and experimentation.
+
+- [Keras-DGL](https://vermamachinelearning.github.io/keras-deep-graph-learning/)
+- [Keras-DGL](https://github.com/vermaMachineLearning/keras-deep-graph-learning/tree/master)
 
 ---
 
