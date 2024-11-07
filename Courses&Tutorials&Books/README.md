@@ -107,6 +107,8 @@ There are several informative YouTube videos and playlists that can enhance your
 
 * Graph Neural Networks - Theory, Applications and Research [Link](https://www.youtube.com/playlist?app=desktop&list=PLPTV0NXA_ZSg4Pimkso0nHxwYMB6IGX7l)
 
+* Graph Convolutional Networks (GCNs) in PyTorch [Link](https://www.youtube.com/watch?v=G6c6zk0RhRM&list=PL8Q742wf_oLXBo9hk3NepUMmnIvfYEJy2) [Codes](https://github.com/mashaan14/YouTube-channel/tree/main)
+
 * UVA Deep Learning Lectures 2020 [Link](https://www.youtube.com/watch?v=PQTSg7OQ8fI&list=PLdlPlO1QhMiDlES3Vck6oQwO3TMYbdZDk)
 
 <h2 id="theses">📜 Theses</h2>
