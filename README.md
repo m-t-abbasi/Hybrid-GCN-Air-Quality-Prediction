@@ -6,6 +6,24 @@ Your contributions are invaluable! We encourage you to share your insights by su
 
 ## Content Overview
 
+# 📚 A Systematic Review of Hybrid Deep Learning Models Based on Graph Convolutional Networks for Air Quality Prediction
+
+This repository provides a comprehensive collection of resources and insights from our systematic review on **hybrid deep learning models** that utilize **Graph Convolutional Networks (GCNs)** for air quality prediction. As air pollution remains a pressing issue, leveraging hybrid models has shown significant potential in capturing complex spatiotemporal dependencies, leading to more accurate predictions.
+
+## 📌 Key Highlights
+- **Detailed Analysis:** An in-depth review of the latest hybrid architectures, focusing on the integration of GCNs with various temporal feature extraction models (RNNs, CNNs, Attention-based models).
+- **Comprehensive Classification:** Models are categorized based on their spatial and temporal components, providing a clear understanding of their design and capabilities.
+- **Critical Insights:** Discussion on the strengths and weaknesses of hybrid approaches in different scenarios, aiding researchers and practitioners in selecting the right models for their specific needs.
+
+## 🛠️ Resources Included
+- 📄 **Paper List:** A curated collection of significant studies reviewed in this article.
+- 📊 **Data Sources:** Links to commonly used air quality datasets.
+- 🧠 **Popular Architectures:** Examples and diagrams of key hybrid models for air quality prediction.
+- 📈 **Implementation Guides:** Tutorials and reference implementations for building hybrid GCN-based models.
+
+We welcome contributions and discussions from the community to further enrich this repository and help advance the field of air quality prediction!
+
+
 ## Explore the Timeline:
 <ul>
     <li><a href="#2019">2019</a></li>
@@ -82,40 +100,41 @@ Your contributions are invaluable! We encourage you to share your insights by su
 [20] GMLN: Global-Local Multi-channel Learning Network for Spatiotemporal Prediction  
 [📄 Link](https://ieeexplore.ieee.org/document/9904214)
 
+[21] Dual-channel spatial–temporal difference graph neural network for PM2:5 forecasting  
+[📄 Link](https://link.springer.com/article/10.1007/s00521-022-08036-0)
+
 <h2 id="2023">📅 2023</h2>
 
-[21] Graph Neural Network for Air Quality Prediction: A Case Study in Madrid  
+[22] Graph Neural Network for Air Quality Prediction: A Case Study in Madrid  
 [📄 Link](https://ieeexplore.ieee.org/document/10005808)
 
-[22] A hybrid deep learning model for regional O3 and NO2 concentrations prediction based on spatiotemporal dependencies in air quality monitoring network  
+[23] A hybrid deep learning model for regional O3 and NO2 concentrations prediction based on spatiotemporal dependencies in air quality monitoring network  
 [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0269749123000775)
 
-[23] A novel spatiotemporal multigraph convolutional network for air pollution prediction  
+[24] A novel spatiotemporal multigraph convolutional network for air pollution prediction  
 [📄 Link](https://link.springer.com/article/10.1007/s10489-022-04418-y)
 
-[24] A hybrid model for spatial–temporal prediction of PM2.5 based on a time division method  
+[25] A hybrid model for spatial–temporal prediction of PM2.5 based on a time division method  
 [📄 Link](https://link.springer.com/article/10.1007/s13762-023-04813-z)
 
-[25] Air Quality Prediction Model Based on Spatio-temporal Graph Convolution Neural Networks  
+[26] Air Quality Prediction Model Based on Spatio-temporal Graph Convolution Neural Networks  
 [📄 Link](https://ieeexplore.ieee.org/abstract/document/10062144)
 
-[26] A city-based PM2.5 forecasting framework using Spatially Attentive Cluster-based Graph Neural Network model  
+[27] A city-based PM2.5 forecasting framework using Spatially Attentive Cluster-based Graph Neural Network model  
 [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0959652623011940)
 
-[27] Enhancing PM2.5 Predictions Using Combination of Graph Convolutional Network and Bi-LSTM                                                                               [📄 Link](https://ieeexplore.ieee.org/document/10112686)
+[28] Enhancing PM2.5 Predictions Using Combination of Graph Convolutional Network and Bi-LSTM                                                                               [📄 Link](https://ieeexplore.ieee.org/document/10112686)
 
-[28] A Spatio-Temporal Graph Convolutional Network for Air Quality Prediction  
+[29] A Spatio-Temporal Graph Convolutional Network for Air Quality Prediction  
 [📄 Link](https://www.mdpi.com/2071-1050/15/9/7624)
 
-[29] Smart solutions for urban health risk assessment: A PM2.5 monitoring system incorporating spatiotemporal long-short term graph convolutional network  
+[30] Smart solutions for urban health risk assessment: A PM2.5 monitoring system incorporating spatiotemporal long-short term graph convolutional network  
 [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0045653523013383)
 
-[30] Multi-view multi-task spatiotemporal graph convolutional network for air quality prediction  
+[31] Multi-view multi-task spatiotemporal graph convolutional network for air quality prediction  
 [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0048969723033223)
 
-[31] Dynamic graph neural network with adaptive edge attributes for air quality prediction: A case study in China                                                    [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0048969723033223)
-
-[32] ASTGC: Attention-based Spatio-temporal Fusion Graph Convolution Model for Fine-grained Air Quality Analysis                                                             [📄 Link](https://link.springer.com/article/10.1007/s11869-023-01369-2)
+[32] Dynamic graph neural network with adaptive edge attributes for air quality prediction: A case study in China                                                    [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0048969723033223)
 
 [33] Spatiotemporal adaptive attention graph convolution network for city‑level air quality prediction                                                                       [📄 Link](https://www.nature.com/articles/s41598-023-39286-0)
 [📃 Code](https://github.com/349117955/STAAGCN)
