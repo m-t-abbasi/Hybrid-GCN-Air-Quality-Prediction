@@ -16,15 +16,14 @@ This repository provides a comprehensive collection of resources and insights fr
 - **Critical Insights:** Discussion on the strengths and weaknesses of hybrid approaches in different scenarios, aiding researchers and practitioners in selecting the right models for their specific needs.
 
 ## 🛠️ Resources Included
-- 📄 **Paper List:** A curated collection of significant studies reviewed in this article.
+- 📄 **Paper List:** A curated collection of significant studies reviewed in this paper.
 - 📊 **Data Sources:** Links to commonly used air quality datasets.
 - 🧠 **Popular Architectures:** Examples and diagrams of key hybrid models for air quality prediction.
 - 📈 **Implementation Guides:** Tutorials and reference implementations for building hybrid GCN-based models.
 
-We welcome contributions and discussions from the community to further enrich this repository and help advance the field of air quality prediction!
 
+## 📚 Collection of Papers
 
-## Explore the Timeline:
 <ul>
     <li><a href="#2019">2019</a></li>
     <li><a href="#2020">2020</a></li>
@@ -33,8 +32,6 @@ We welcome contributions and discussions from the community to further enrich th
     <li><a href="#2023">2023</a></li>
     <li><a href="#2024">2024</a></li>
 </ul>
-
-## 📚 Collection of Papers
 
 <h2 id="2019">📅 2019</h2>
 
