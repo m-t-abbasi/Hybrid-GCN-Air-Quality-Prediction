@@ -97,7 +97,7 @@ This repository provides a comprehensive collection of resources and insights fr
 [20] GMLN: Global-Local Multi-channel Learning Network for Spatiotemporal Prediction  
 [📄 Link](https://ieeexplore.ieee.org/document/9904214)
 
-[21] Dual-channel spatial–temporal difference graph neural network for PM2:5 forecasting  
+[21] Dual-channel spatial–temporal difference graph neural network for PM25 forecasting  
 [📄 Link](https://link.springer.com/article/10.1007/s00521-022-08036-0)
 
 <h2 id="2023">📅 2023</h2>
