@@ -6,7 +6,7 @@ This section provides a curated list of open-source tools and libraries designed
 <ul>
     <li><a href="#Tools for air quality data analysis">Tools for air quality data analysis</a></li>
     <li><a href="#Popular packages">Popular packages</a></li>
-    <li><a href="#POI factors">POI factors</a></li>
+    <li><a href="#The source code for the variants mentioned in spectral-based approaches">The source code for the variants mentioned in spectral-based approaches</a></li>
     <li><a href="#Traffic factors">Traffic factors</a></li>
     
 </ul>
@@ -39,6 +39,15 @@ This library can provide ideas for clustering air quality monitoring stations.
 
 - [SpatialCluster](https://github.com/ElsevierSoftwareX/SOFTX-D-24-00008)
 - [Paper link](https://github.com/ElsevierSoftwareX/SOFTX-D-24-00008)
+
+---
+
+ST-CLUSTERING
+
+ST-CLUSTERING is an open-source package for spatial-temporal clustering, built on top of scikit-learn's clustering algorithms. It efficiently handles large datasets using chunking techniques, specifically through the st_fit_frame_split method, which processes data in segments to avoid memory issues. The package supports common data formats like pandas DataFrame, making it compatible with standard Python data workflows. It is well-suited for applications such as traffic analysis and air quality monitoring, providing scalable and flexible clustering solutions.
+This library can provide ideas for clustering air quality monitoring stations.
+
+- [st_clustering](https://github.com/dbvis-ukon/spatio-temporal-clustering?tab=readme-ov-file)
 
 ---
 
@@ -170,9 +179,54 @@ CogDL is a comprehensive library designed for deep learning on graphs, particula
 
 ---
 
+NetworkX
 
+NetworkX is a Python library used for the creation, manipulation, and study of complex networks and graphs. It provides tools for working with both undirected and directed graphs, as well as weighted and unweighted graphs. The library supports a wide range of algorithms for graph analysis, such as shortest paths, clustering, and connectivity. NetworkX also offers functions for graph visualization and is compatible with other libraries like Matplotlib for plotting. It is widely used in fields such as social network analysis, biology, and computer science.
+
+- [NetworkX](https://networkx.org/)
+
+<h2 id="The source code for the variants mentioned in spectral-based approaches">📦 The source code for the variants mentioned in spectral-based approaches</h2>
+
+ChebNet (2016) (https://github.com/abhilash1910/SpectralEmbeddings)
+GraphSAGE (2017) (https://github.com/williamleif/GraphSAGE)
+GAT (2017) (https://github.com/PetarV-/GAT)
+
+
+
+Several hybrid deep learning models based on GCNs
+
+This public repository contains a collection of several spatiotemporal graph-based networks that are also suitable for working with air quality monitoring network data.
+
+- [DL-Traff-Graph](https://github.com/deepkashiwa20/DL-Traff-Graph)
+
+---
+
+
+
+The source code for the variants mentioned in spectral-based approaches.
 
 🌫️ PM2.5-GNN
+
+
+
+---
+
+
+Graph Models
+
+🌫️ PM2.5-GNN
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -272,6 +326,8 @@ GNNkeras: A Keras-based library for Graph Neural Networks and homogeneous and he
 https://github.com/SoftwareImpacts/SIMPAC-2021-57
 
 https://github.com/mdeff/cnn_graph
+
+https://github.com/SoftwareImpacts/SIMPAC-2021-57
 
 <h2 id="tools">📦 Tools</h2>
 
