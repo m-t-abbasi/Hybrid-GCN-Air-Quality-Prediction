@@ -187,9 +187,9 @@ NetworkX is a Python library used for the creation, manipulation, and study of c
 
 <h2 id="The source code for the variants mentioned in spectral-based approaches">📦 The source code for the variants mentioned in spectral-based approaches</h2>
 
-ChebNet (2016)(https://github.com/abhilash1910/SpectralEmbeddings)
-GraphSAGE (2017)(https://github.com/williamleif/GraphSAGE)
-GAT (2017)(https://github.com/PetarV-/GAT)
+[ChebNet (2016)](https://github.com/abhilash1910/SpectralEmbeddings)
+[GraphSAGE (2017)](https://github.com/williamleif/GraphSAGE)
+[GAT (2017)](https://github.com/PetarV-/GAT)
 
 
 
