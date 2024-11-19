@@ -45,13 +45,14 @@ There are several introductory content to learn about GNNs. The following are so
 
 * Wu, Lingfei, Peng Cui, Jian Pei, and Liang Zhao. (2022). Graph Neural Networks: Foundations, Frontiers, and Applications. Singapore: Springer Singapore. [Link](https://link.springer.com/book/10.1007/978-981-16-6054-2)
 
+* Shi, C., Wang, X., & Yang, C. (2022). *Advances in Graph Neural Networks. Springer*. ISBN: 978-3-031-16173-5. [Link](https://link.springer.com/book/10.1007/978-3-031-16174-2) 
+
+* Gridin, I. (2022). *Time Series Forecasting using Deep Learning*. Apress  [Code](https://github.com/bpbpublications/Time-Series-Forecasting-using-Deep-Learning) 
+
 * Labonne, Maxime. (2023). *Hands-On Graph Neural Networks Using Python: Practical Techniques and Architectures*. Birmingham: Packt Publishing.
 
 * Broadwater, Keita, and Namid Stillman. (2023) . *Graph Neural Networks in Action*. MEAP V06, Manning Publications, n.d.
 
-* Shi, C., Wang, X., & Yang, C. (2022). *Advances in Graph Neural Networks. Springer*. ISBN: 978-3-031-16173-5. [Link](https://link.springer.com/book/10.1007/978-3-031-16174-2) 
-
-* Gridin, I. (2022). *Time Series Forecasting using Deep Learning*. Apress  [Code](https://github.com/bpbpublications/Time-Series-Forecasting-using-Deep-Learning) 
 
 <h2 id="Surveys">🔍 Surveys and Literature Reviews</h2>
 
