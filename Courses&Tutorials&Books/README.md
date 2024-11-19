@@ -187,6 +187,12 @@ If you want to keep up-to-date with popular recent methods and paper implementat
 
 * [Graph Models by Papers with Code](https://paperswithcode.com/methods/category/graph-models)
 
+* [Must-read papers on GNN](https://github.com/thunlp/gnnpapers)
+
+* [Temporal Graph Convolutional Network for Urban Traffic Flow Prediction Method](https://github.com/lehaifeng/T-GCN)
+
+* [PM2.5-GNN](https://github.com/shuowang-ai/PM2.5-GNN)
+
 https://github.com/HeXiax/AGCC
 
 https://github.com/ckghostwj
