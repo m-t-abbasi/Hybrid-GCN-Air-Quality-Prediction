@@ -121,6 +121,11 @@ There are several informative YouTube videos and playlists that can enhance your
 
 * Tang X. Modeling Spatiotemporality for Multivariate Time Series in Urban Applications[J]. 2020. [Link](https://etda.libraries.psu.edu/catalog/17900xut10)
 
+* Wein, Simon. Applications of Spatio-Temporal Graph Neural Network Models for Brain Connectivity Analysis. Dissertation zur Erlangung des Doktorgrades der Naturwissenschaften (Dr. rer. nat.), Fakultät für Physik, Universität Regensburg, 2022. [Link](https://epub.uni-regensburg.de/53477/)
+
+* Panda, S. (2023). Recurrent unit together with reinforcement learning for graph network (Master's thesis). Faculty of Applied Computer and Biosciences, Mittweida University of Applied Sciences. [Link](https://monami.hs-mittweida.de/frontdoor/index/index/year/2023/docId/14463)
+
+
 <h2 id="blogs">📜 Blogs</h2>
 
 * A Gentle Introduction to Graph Neural Networks [Link](https://distill.pub/2021/gnn-intro/)
