@@ -19,18 +19,21 @@ Since January 1, 2015, China’s central environmental ministry, now known as th
 - [Archived Data](https://quotsoft.net/air/) : Contains scraped and archived historical data.
 - [Archived Data](https://www.aqistudy.cn/historydata/) : Contains scraped and archived historical data.
 - [KnowAir](https://drive.google.com/file/d/1R6hS5VAgjJQ_wu8i5qoLjIxY0BG7RD1L/view) : The KnowAir dataset, introduced by Wang et al. (2020) [Link](https://arxiv.org/abs/2002.12898), is an open-source PM2.5 dataset that includes data from 184 weather stations across cities in China. It records information every 3 hours from 2015 to 2018, covering 18 meteorological features (e.g., temperature, wind speed, humidity, precipitation, and surface pressure) along with the PM2.5 air pollution data.
-- [UrbanAir](http://research.microsoft.com/apps/pubs/?id=246398): 
+- [UrbanAir](http://research.microsoft.com/apps/pubs/?id=246398) : 
 
 ---
 
 📍 Beijing, China
 
 The air pollution data collection structure in China is multi-level and involves collaboration between national, provincial, and local agencies. The Ministry of Ecology and Environment (MEE) formulates national policies and standards, coordinates the national monitoring system, and publishes national reports. Provincial environmental departments implement MEE's responsibilities at the provincial level and report their findings to the MEE. Urban departments are responsible for policy implementation and managing local monitoring stations. Air quality monitoring stations collect data on pollutants and send it to higher levels. This data, after processing by the MEE, is made publicly available through websites and applications. 
-Some of these websites for Beijing are as follows:
+Some of these websites for Beijing are as follows :
 - [Beijing Municipal Ecology and Environment Bureau (BMEEB) Data](http://www.bjmemc.com.cn/)
 - [Harvard Dataverse Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/USXCAK)
 - [UCI Machine Learning Repository Data](https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data)
-- [KDD CUP of Fresh Air](https://www.kdd.org/kdd2018/kdd-cup)
+- [KDD CUP of Fresh Air](https://www.kdd.org/kdd2018/kdd-cup) : The dataset used in the KDD competition contains air quality data and weather data from 35 sites in Beijing and 13 sites in London. Air quality data includes the following important air pollutants:
+PM2.5, PM10, NO2.
+- [An adaptive adjacency matrix‑based graph convolutional recurrent network for air quality prediction](https://github.com/DHA-AI4VN2022/MAML/tree/main/data/Beijing) : Hourly data from 2018.1 to 2018.12 for six conventional air pollutants (PM2.5, PM10,
+NO2, CO, O3, SO2) are collected from environmental monitor stations in Beijing.
 
 ---
 
@@ -113,6 +116,12 @@ The China Meteorological Data Service Centre is an upgraded system for sharing m
 - [China Meteorological Data Service Centre](https://data.cma.cn/en)
 
 <h2 id="POI factors">🗺️ POI factors</h2>
+
+🌍 Global (focusing on China)
+
+MapWorld API, developed by the National Geomatics Center of China, serves as a government-backed mapping platform. It offers high-resolution geographic data, including satellite imagery and detailed topographic information. The API facilitates POI-related services, such as location searches, nearby recommendations, and integration with environmental and transportation datasets. MapWorld API focuses on serving users in China with robust location-based services, while also extending its utility to global datasets.
+
+- [MapWorld API](https://www.tianditu.gov.cn/)
 
 📍 China
 
