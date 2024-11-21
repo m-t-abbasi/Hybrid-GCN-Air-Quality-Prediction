@@ -201,6 +201,55 @@ This public repository contains a collection of several spatiotemporal graph-bas
 
 ---
 
+Forecasting using spatio-temporal data with combined Graph Convolution + LSTM model
+
+The architecture of the GCN-LSTM model is inspired by the paper: T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction.
+
+- [T-GCN](https://github.com/stellargraph/stellargraph/blob/develop/demos/time-series/gcn-lstm-time-series.ipynb)
+- [T-GCN](https://stellargraph.readthedocs.io/en/stable/demos/time-series/gcn-lstm-time-series.html)
+
+---
+
+Graph GRU
+
+Reconstructed GRU, used to process the graph sequence.
+
+- [graph gru](https://github.com/GlassyWing/graph_gru)
+
+---
+
+STAGCN
+
+A novel spatio-temporal adaptive graph convolutional network model (STAGCN) based on deep learning Pytorch 1.8.0 CUDA 11.1
+
+- [STAGCN](https://github.com/QiweiMa-LL/STAGCN)
+
+---
+
+Adaptive Spatio-temporal Graph Neural Network for Traffic Forecasting
+
+This is PyTorch implementation of Ada-STNet in the following paper: Adaptive Spatio-temporal Graph Neural Network for Traffic Forecasting.
+
+- [Ada-STNet](https://github.com/LiuZH-19/Ada-STNet)
+
+---
+
+DDP-GCN: Multi-Graph Convolutional Network for Spatiotemporal Traffic Forecasting
+
+This is a TensorFlow implementation of DDP-GCN in the following paper: https://arxiv.org/abs/1905.12256. Our codes are mostly built upon the codes of https://github.com/VeritasYin/STGCN_IJCAI-18.
+
+- [DDP-GCN](https://github.com/SNU-DRL/DDP-GCN)
+
+---
+
+Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting
+
+Code for our VLDB'22 paper: "Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting".
+
+- [D2STGNN](https://github.com/GestaltCogTeam/D2STGNN)
+
+---
+
 
 
 The source code for the variants mentioned in spectral-based approaches.
