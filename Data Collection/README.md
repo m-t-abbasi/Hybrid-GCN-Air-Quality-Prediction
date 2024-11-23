@@ -34,6 +34,7 @@ Some of these websites for Beijing are as follows :
 PM2.5, PM10, NO2.
 - [An adaptive adjacency matrix‑based graph convolutional recurrent network for air quality prediction](https://github.com/DHA-AI4VN2022/MAML/tree/main/data/Beijing) : Hourly data from 2018.1 to 2018.12 for six conventional air pollutants (PM2.5, PM10,
 NO2, CO, O3, SO2) are collected from environmental monitor stations in Beijing.
+- [Deep Spatio-Temporal Graph Network with Self-Optimization for Air Quality Prediction](https://github.com/btbuIntelliSense/Beijing-PM2.5-Concentration-Data) : The data includes hourly PM2.5 concentration data from 16 districts in Beijing from January to April 2017.
 
 ---
 
