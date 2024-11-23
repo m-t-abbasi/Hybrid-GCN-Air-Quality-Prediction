@@ -105,7 +105,7 @@ This repository provides a comprehensive collection of resources and insights fr
 [📄 Link](https://ieeexplore.ieee.org/document/10005808)
 [📃 Code](https://github.com/benedekrozemberczki/pytorch_geometric_temporal/blob/master/notebooks/a3tgcn_for_traffic_forecasting.ipynb)
 [📃 Code](https://github.com/Ditsuhi/Graph_Neural_Networks_A3T_GCN/blob/main/A3T-GCN_(Hidden_Units)_LSTM_GRU.ipynb)
-[📃 Code]([📃 Code](https://github.com/Ditsuhi/Graph_Neural_Networks_A3T_GCN/blob/main/A3T-GCN_(Hidden_Units)_LSTM_GRU.ipynb))
+[📃 Code](https://github.com/Ditsuhi/Graph_Neural_Networks_A3T_GCN/blob/main/A3T-GCN_(Hidden_Units)_LSTM_GRU.ipynb))
 
 [23] A hybrid deep learning model for regional O3 and NO2 concentrations prediction based on spatiotemporal dependencies in air quality monitoring network  
 [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S0269749123000775)
