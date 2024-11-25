@@ -155,6 +155,7 @@ multi-station PM2.5
 [39] Fine-grained PM2.5 prediction in Lanzhou based on the spatiotemporal graph convolutional network                                                                [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S1309104223003471)
 
 [40] A lightweight spatiotemporal graph dilated convolutional network for urban sensor state prediction                                                                      [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S221067072300714X)
+[📃 Code](https://figshare.com/articles/dataset/_b_A_lightweight_b_b_spatiotemporal_graph_dilated_convolutional_network_b_/23935683?file=42126966)
 
 [41] Multi-Site and Multi-Pollutant Air Quality Data Modeling                            [📄 Link](https://www.mdpi.com/2071-1050/16/1/165)
 
