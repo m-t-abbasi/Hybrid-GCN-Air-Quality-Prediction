@@ -87,11 +87,14 @@ This repository provides a comprehensive collection of resources and insights fr
 [15] Dynamic graph convolution neural network based on spatial-temporal correlation for air quality prediction
 [📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S1574954122001868)
 
-[16] Forecasting PM2.5 Concentration in India Using a Cluster Based Hybrid Graph Neural Network Approach                                                                        [📄 Link](https://link.springer.com/article/10.1007/s13143-022-00291-4)
+[16] Attention enhanced hybrid model for spatiotemporal short-term forecasting of particulate matter concentrations
+[📄 Link](https://www.sciencedirect.com/science/article/abs/pii/S2210670722004267)
 
-[17] STM2CN: A Multi-graph Attention-based Framework for Sensor Data Prediction in Smart Cities                                                                        [📄 Link](https://ieeexplore.ieee.org/document/9892249)
+[17] Forecasting PM2.5 Concentration in India Using a Cluster Based Hybrid Graph Neural Network Approach                                                                        [📄 Link](https://link.springer.com/article/10.1007/s13143-022-00291-4)
 
-[18] Spatio-Temporal Modeling For Air Quality Prediction Based On Spectral Graph Convolutional Network And Attention Mechanism                                        [📄 Link](https://ieeexplore.ieee.org/document/9891881)
+[18] STM2CN: A Multi-graph Attention-based Framework for Sensor Data Prediction in Smart Cities                                                                        [📄 Link](https://ieeexplore.ieee.org/document/9892249)
+
+[19] Spatio-Temporal Modeling For Air Quality Prediction Based On Spectral Graph Convolutional Network And Attention Mechanism                                        [📄 Link](https://ieeexplore.ieee.org/document/9891881)
 
 [20] MGC‑LSTM: a deep learning model based on graph convolution of multiple graphs for PM2.5 prediction  
 [📄 Link](https://link.springer.com/article/10.1007/s13762-022-04553-6)
