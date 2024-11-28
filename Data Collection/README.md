@@ -29,8 +29,8 @@ Air Data: Air Quality Data Collected at Outdoor Monitors Across the US
 This dataset provides comprehensive information on air quality collected at outdoor monitors across the United States. The data is made available by the U.S. Environmental Protection Agency (EPA) and includes measurements such as the concentration of particulate matter (PM2.5, PM10), ozone (O₃), nitrogen dioxide (NO₂), sulfur dioxide (SO₂), carbon monoxide (CO), and other pollutants over various time intervals.
 
 Access Information:
-The dataset is typically accessible through the EPA’s website in CSV format or via an API. For more information, visit the [official EPA website] (https://www.epa.gov/outdoor-air-quality-data).
-
+The dataset is readily accessible on the **EPA’s official website**, available in CSV format for download or through an API for seamless integration.  
+To explore and utilize the data, visit the [**EPA Air Quality Data Portal**](https://www.epa.gov/outdoor-air-quality-data).  
 ---
 
 📍 Beijing, China
