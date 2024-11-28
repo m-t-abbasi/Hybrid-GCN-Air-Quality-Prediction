@@ -23,6 +23,16 @@ Since January 1, 2015, China’s central environmental ministry, now known as th
 
 ---
 
+📍 The United States
+
+Air Data: Air Quality Data Collected at Outdoor Monitors Across the US
+This dataset provides comprehensive information on air quality collected at outdoor monitors across the United States. The data is made available by the U.S. Environmental Protection Agency (EPA) and includes measurements such as the concentration of particulate matter (PM2.5, PM10), ozone (O₃), nitrogen dioxide (NO₂), sulfur dioxide (SO₂), carbon monoxide (CO), and other pollutants over various time intervals.
+
+Access Information:
+The dataset is typically accessible through the EPA’s website in CSV format or via an API. For more information, visit the official EPA website (https://www.epa.gov/outdoor-air-quality-data).
+
+---
+
 📍 Beijing, China
 
 The air pollution data collection structure in China is multi-level and involves collaboration between national, provincial, and local agencies. The Ministry of Ecology and Environment (MEE) formulates national policies and standards, coordinates the national monitoring system, and publishes national reports. Provincial environmental departments implement MEE's responsibilities at the provincial level and report their findings to the MEE. Urban departments are responsible for policy implementation and managing local monitoring stations. Air quality monitoring stations collect data on pollutants and send it to higher levels. This data, after processing by the MEE, is made publicly available through websites and applications. 
