@@ -1,5 +1,5 @@
-# Datasets Used in Reviewed Papers for This Systematic Review 
-In this systematic review, we present a comprehensive list of publicly available datasets referenced in the examined studies. This collection highlights the primary data sources used across various articles, providing a valuable resource for researchers seeking comparable datasets in related fields.
+# Data sets used in the included papers for this systematic review 
+In this systematic review, we present a comprehensive list of publicly available datasets that have been referenced in the studies included. This collection highlights the primary data sources used in various papers and serves as a valuable resource for researchers seeking comparable datasets in related fields.
 
 <ul>
     <li><a href="#Concentration factors of pollutants">Concentration factors of pollutants</a></li>
