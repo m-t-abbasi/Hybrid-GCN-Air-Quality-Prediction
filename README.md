@@ -168,6 +168,7 @@ multi-station PM2.5
 [43] Urban AQI Prediction Using an Inverse Variance Weighted GCN and BiLSTM Combined Model                                                                                [📄 Link](https://ieeexplore.ieee.org/document/10409714)
 
 [44] Predicting short-term PM2.5 concentrations at fine temporal resolutions using a multi-branch temporal graph convolutional neural network                            [📄 Link](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2310737)
+[📄 Code](https://figshare.com/articles/dataset/Predicting_short-term_PM2_5_concentrations_at_fine_temporal_resolutions_using_a_multi-branch_temporal_graph_convolutional_neural_network/19729480)
 
 [45] An adaptive adjacency matrix‑based graph convolutional recurrent network for air quality prediction                                                                       [📄 Link](https://www.nature.com/articles/s41598-024-55060-2)
 [📃 Code](https://github.com/DHA-AI4VN2022/MAML?tab=readme-ov-file)
