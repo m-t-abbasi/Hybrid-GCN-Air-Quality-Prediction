@@ -250,6 +250,22 @@ Code for our VLDB'22 paper: "Decoupled Dynamic Spatial-Temporal Graph Neural Net
 
 ---
 
+Spatio-Temporal Graph Convolutional Networks:A Deep Learning Framework for Traffic Forecasting
+
+- [STGCN](https://github.com/VeritasYin/STGCN_IJCAI-18)
+
+---
+
+STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model
+
+- [STG-Mamba](https://github.com/LincanLi98/STG-Mamba)
+
+---
+
+STGM: Spatio-Temporal Graph Mixformer for Traffic Forecasting
+
+- [STGM](https://github.com/Mouradost/STGM)
+
 
 
 The source code for the variants mentioned in spectral-based approaches.
@@ -322,39 +338,27 @@ Differentiable Physics-informed Graph Networks
 
 ---
 
-Sparse Graph Learning from Spatiotemporal Time Series (JMLR 2023)
-
-- [](https://github.com/andreacini/sparse-graph-learning)
+Sparse Graph Learning from Spatiotemporal Time Series (JMLR 2023)(https://github.com/andreacini/sparse-graph-learning)
 
 ---
 
-Graph WaveNet for Deep Spatial-Temporal Graph Modeling
-
-- [](https://github.com/nnzhan/Graph-WaveNet)
+Graph WaveNet for Deep Spatial-Temporal Graph Modeling(https://github.com/nnzhan/Graph-WaveNet)
 
 ---
 
-Spatio-Temporal Graph Convolutional Networks
-
-- [](https://github.com/hazdzz/STGCN)
+Spatio-Temporal Graph Convolutional Networks(https://github.com/hazdzz/STGCN)
 
 ---
 
-Deep Learning Models
-
-- [](https://github.com/SubhojitMandal-iiits/deeplearning-models)
+Deep Learning Models(https://github.com/SubhojitMandal-iiits/deeplearning-models)
 
 ---
 
-ASTGNN
-
-- [](https://github.com/SubhojitMandal-iiits/ASTGNN)
+ASTGNN(https://github.com/SubhojitMandal-iiits/ASTGNN)
 
 ---
 
-Spatial Temporal Graph Convolutional Networks (ST-GCN)
-
-- [](https://github.com/wanjinchang/st-gcn)
+Spatial Temporal Graph Convolutional Networks (ST-GCN)(https://github.com/wanjinchang/st-gcn)
 
 ---
 
@@ -366,9 +370,7 @@ This repository includes our works on Graph representation learning and its appl
 
 ---
 
-Awesome Graph Neural Networks for Time Series Analysis (GNN4TS)
-
-- [](https://github.com/KimMeen/Awesome-GNN4TS)
+Awesome Graph Neural Networks for Time Series Analysis (GNN4TS)(https://github.com/KimMeen/Awesome-GNN4TS)
 
 GNNkeras: A Keras-based library for Graph Neural Networks and homogeneous and heterogeneous graph processing
 
