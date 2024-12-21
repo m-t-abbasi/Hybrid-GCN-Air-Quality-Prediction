@@ -338,27 +338,27 @@ Differentiable Physics-informed Graph Networks
 
 ---
 
-Sparse Graph Learning from Spatiotemporal Time Series (JMLR 2023)(https://github.com/andreacini/sparse-graph-learning)
+[Sparse Graph Learning from Spatiotemporal Time Series](JMLR 2023)(https://github.com/andreacini/sparse-graph-learning)
 
 ---
 
-Graph WaveNet for Deep Spatial-Temporal Graph Modeling(https://github.com/nnzhan/Graph-WaveNet)
+[Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://github.com/nnzhan/Graph-WaveNet)
 
 ---
 
-Spatio-Temporal Graph Convolutional Networks(https://github.com/hazdzz/STGCN)
+[Spatio-Temporal Graph Convolutional Networks](https://github.com/hazdzz/STGCN)
 
 ---
 
-Deep Learning Models(https://github.com/SubhojitMandal-iiits/deeplearning-models)
+[Deep Learning Models](https://github.com/SubhojitMandal-iiits/deeplearning-models)
 
 ---
 
-ASTGNN(https://github.com/SubhojitMandal-iiits/ASTGNN)
+[ASTGNN](https://github.com/SubhojitMandal-iiits/ASTGNN)
 
 ---
 
-Spatial Temporal Graph Convolutional Networks (ST-GCN)(https://github.com/wanjinchang/st-gcn)
+[Spatial Temporal Graph Convolutional Networks](ST-GCN)(https://github.com/wanjinchang/st-gcn)
 
 ---
 
