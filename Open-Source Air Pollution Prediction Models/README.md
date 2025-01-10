@@ -26,7 +26,7 @@ This repository gathers papers that contribute to air pollution prediction, focu
 [![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.eswa.2022.118017-blue)](https://doi.org/10.1016/j.eswa.2022.118017)  
 [![Journal](https://img.shields.io/badge/Journal-Expert%20Systems%20with%20Applications-lightgreen)](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
-**Abstract** 
+**Abstract**<br> 
 Predicting air pollutant concentrations is crucial for pollution prevention and early warnings. This project proposes **RCL-Learning**, a model combining **ResNet** for spatial feature extraction and **ConvLSTM** for spatiotemporal sequence learning. Key highlights:  
 - **Accurate multi-city PM2.5 predictions** with RMSE ranging from **5.478 to 13.622** for 1- to 3-hour tasks.  
 - **Robust multiscale forecasting** with an average RMSE of **22.927** for 1- to 15-hour tasks.  
