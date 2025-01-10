@@ -1,6 +1,6 @@
 # 📚 Open-Source Air Pollution Prediction Models
 
-Welcome to this curated collection of research papers in the field of **air pollution prediction** that have made their models available as open-source projects. This repository aims to serve as a resource for researchers, developers, and enthusiasts interested in exploring and building upon existing models.
+Welcome to this collection of research papers on air pollution prediction, where the models are shared as open-source projects. This repository serves as a valuable resource for researchers, developers, and enthusiasts who want to explore and build on existing models.
 
 ---
 
@@ -23,8 +23,8 @@ This repository gathers papers that contribute to air pollution prediction, focu
 # 🌟 RCL-Learning  
 **RCL-Learning: ResNet and convolutional long short-term memory-based spatiotemporal air pollutant concentration prediction model**  
 
-[![DOI](https://img.shields.io/badge/DOI-YourDOI-blue)](https://doi.org/10.1016/j.eswa.2022.118017)  
-[![Journal](https://img.shields.io/badge/Journal-YourJournalName-lightgreen)](https://www.sciencedirect.com/journal/expert-systems-with-applications)  
+[![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.eswa.2022.118017-blue)](https://doi.org/10.1016/j.eswa.2022.118017)  
+[![Journal](https://img.shields.io/badge/Journal-Expert Systems with Applications-lightgreen)](https://www.sciencedirect.com/journal/expert-systems-with-applications)  
 
 ---
 
@@ -38,7 +38,7 @@ Predicting air pollutant concentrations is crucial for pollution prevention and 
 
 ## 🖼️ Model Overview  
 <div align="center">
-  <img src="images/figure1.png" alt="Model Architecture" width="80%">
+  <img src="image/figure1.png" alt="Model Architecture" width="80%">
 </div>
 
 ---
