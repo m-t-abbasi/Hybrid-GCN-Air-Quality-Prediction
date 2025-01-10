@@ -60,17 +60,18 @@ Predicting air pollutant concentrations is crucial for pollution prevention and 
 
 
 **Citation** 
-If you use this work, please cite as:  
-```latex
-@article{zhang2022rcl,  
-  title={RCL-Learning: ResNet and convolutional long short-term memory-based spatiotemporal air pollutant concentration prediction model},  
-  author={Zhang, Bo and Zou, Guojian and Qin, Dongming and Ni, Qin and Mao, Hongwei and Li, Maozhen},  
-  journal={Expert Systems with Applications},  
-  pages={118017},  
-  year={2022},  
-  publisher={Elsevier}  
-}  
+If you use this work, please cite as:
+* Latex inference:
 
+
+      @article{zhang2022rcl,  
+            title={RCL-Learning: ResNet and convolutional long short-term memory-based spatiotemporal air pollutant concentration prediction model},  
+            author={Zhang, Bo and Zou, Guojian and Qin, Dongming and Ni, Qin and Mao, Hongwei and Li, Maozhen},  
+            journal={Expert Systems with Applications},  
+            pages={118017},  
+            year={2022},  
+            publisher={Elsevier}  
+           }  
 
 ---
 
@@ -107,15 +108,15 @@ We combine RLSTM as the Encoder and LSTM as the Decoder to build an **Encoder-De
 
 **Citation**  
 If you use this work, please cite as:  
-```latex
-@article{zhang2021novel,  
-  title={A novel Encoder-Decoder model based on read-first LSTM for air pollutant prediction},  
-  author={Zhang, Bo and Zou, Guojian and Qin, Dongming and Lu, Yunjie and Jin, Yupeng and Wang, Hui},  
-  journal={Science of The Total Environment},  
-  volume={765},  
-  pages={144507},  
-  year={2021},  
-  publisher={Elsevier}  
-}
+
+	@article{zhang2021novel,  
+  	  title={A novel Encoder-Decoder model based on read-first LSTM for air pollutant prediction},  
+  	  author={Zhang, Bo and Zou, Guojian and Qin, Dongming and Lu, Yunjie and Jin, Yupeng and Wang, Hui},  
+  	  journal={Science of The Total Environment},  
+  	  volume={765},  
+  	  pages={144507},  
+ 	 year={2021},  
+ 	 publisher={Elsevier}  
+	}
 
 
