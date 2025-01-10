@@ -39,7 +39,7 @@ Predicting air pollutant concentrations is crucial for pollution prevention and 
 </div>
 
 
-**Model Architecture**<br>    
+**Model Architecture**  
 1. **ResNet**  
    - Extracts spatial distribution features of pollutant concentrations and meteorological data.  
 2. **ConvLSTM**  
@@ -59,7 +59,7 @@ Predicting air pollutant concentrations is crucial for pollution prevention and 
 - **Code Capsule**: [CodeOcean](https://codeocean.com/capsule/6049117/tree)  
 
 
-**Citation**<br>  
+**Citation**
 If you use this work, please cite as:
 * Latex inference:
 
@@ -82,7 +82,7 @@ If you use this work, please cite as:
 [![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.scitotenv.2020.144507-blue)](https://doi.org/10.1016/j.scitotenv.2021.144507)  
 [![Journal](https://img.shields.io/badge/Journal-Science%20of%20The%20Total%20Environment-lightgreen)](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 
-**Abstract**<br>     
+**Abstract**    
 Predicting air pollutant concentrations is crucial for effective environmental management and pollution prevention. In this study, we propose **RLSTM**, a Read-First LSTM that addresses the dependency between gate units, enabling better long-term feature extraction compared to traditional RNNs, LSTMs, and GRUs.  
 We combine RLSTM as the Encoder and LSTM as the Decoder to build an **Encoder-Decoder System (EDSModel)** for air pollutant prediction. Key highlights of our findings:  
 - Superior **long-term prediction accuracy** with RMSE of **30.218** for 1 to 24-hour tasks.  
@@ -101,12 +101,12 @@ We combine RLSTM as the Encoder and LSTM as the Decoder to build an **Encoder-De
 | 1–24 hours             | RMSE            | 30.218    |  
 
 
-**Resources**<br>     
+**Resources**    
 - **Paper**: [Read Here](https://www.sciencedirect.com/science/article/abs/pii/S0048969720380384)  
 - **Code Repository**: [GitHub](https://github.com/zouguojian/Read-first-LSTM)  
 
 
-**Citation**<br>   
+**Citation**
 If you use this work, please cite as:  
 
 	@article{zhang2021novel,  
@@ -125,7 +125,7 @@ If you use this work, please cite as:
 **An integrated 3D CNN-GRU deep learning method for short-term prediction of PM2.5 concentration in urban environment**  
 
 [![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.scitotenv.2022.155324-blue)](https://doi.org/10.1016/j.scitotenv.2022.155324)  
-[![Journal](https://img.shields.io/badge/Journal-Expert%20Systems%20with%20Applications-lightgreen)](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+[![Journal](https://img.shields.io/badge/Journal-Science%20of%20The%20Total%20Environment-lightgreen)](https://www.sciencedirect.com/journal/science-of-the-total-environment)  
 
 **Abstract**<br> 
 Predicting PM2.5 concentrations is critical for air quality management and pollution control. In this study, we introduce the 3D CNN-GRU model, which integrates three-dimensional convolutional neural networks with gated recurrent units to enhance spatiotemporal prediction. The model learns spatial patterns from similar air quality (AQ) stations while capturing long-term temporal dependencies for simultaneous learning and prediction across different time intervals. Key findings from our study include:
@@ -140,7 +140,7 @@ Outperforms traditional methods such as LSTM, GRU, ANN, SVR, and ARIMA in predic
 </div>
 
 
-**Model Architecture**<br>    
+**Model Architecture**   
 The architecture of the model consists of two main components:  
 1. **3D CNN (Convolutional Neural Network)**  
    - Captures spatial features from the input data and learns the spatial distribution of pollutants.  
@@ -160,9 +160,10 @@ The architecture of the model consists of two main components:
 
 
 
-**Citation**<br>  
+**Citation**  
 If you use this work, please cite as:
 * Latex inference:
+
 	@article{nadi2022integrated,  
 	  title={An integrated 3D CNN-GRU deep learning method for short-term prediction of PM2.5 concentration in urban environment},  
       	  author={Nadi, Saeed and others},  
