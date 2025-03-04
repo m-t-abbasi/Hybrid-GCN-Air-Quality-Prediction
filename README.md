@@ -6,7 +6,7 @@ Your contributions are invaluable! We encourage you to share your insights by su
 
 ## Content Overview
 
-### 📚 A Systematic Review of Hybrid Deep Learning Models Based on Graph Convolutional Networks for Air Quality Prediction
+### 📚 Hybrid Graph Convolutional Networks for Air Quality Prediction: A Systematic Review of Foundations, Challenges, and Opportunities
 
 This repository provides a comprehensive collection of resources and insights from our systematic review on **hybrid deep learning models** that utilize **Graph Convolutional Networks (GCNs)** for air quality prediction. As air pollution remains a pressing issue, leveraging hybrid models has shown significant potential in capturing complex spatiotemporal dependencies, leading to more accurate predictions.
 
